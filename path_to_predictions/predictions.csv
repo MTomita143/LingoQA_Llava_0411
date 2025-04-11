@@ -1,0 +1,1001 @@
+question_id,segment_id,answer
+1a938d25604410ccd63b60285919eaec,f2e4286e94457b8605069190e29f955a,Yes, there is a traffic light in the scene. It displays the signal to
+1a938d25604410ccd63b60285919eaec,f2e4286e94457b8605069190e29f955a,Yes, a traffic light is visible on a pole, with the green light ill
+49cd6149f02ec01ee03a6eb8287ab2df,f2e4286e94457b8605069190e29f955a,There are no pedestrians visible in the image.
+49cd6149f02ec01ee03a6eb8287ab2df,f2e4286e94457b8605069190e29f955a,There are no pedestrians visible in the image.
+c6050fe51d3408b1eaef27e08e7f1956,f2e4286e94457b8605069190e29f955a,Construction workers are repairing a large sidewalk crack in a city sidewalk
+c6050fe51d3408b1eaef27e08e7f1956,f2e4286e94457b8605069190e29f955a,Trucks are parked on the right side of the road, and a white
+bb98dd0bceac09d24db1ecb2af549a92,f2e4286e94457b8605069190e29f955a,Yes, there is a pedestrian crossing ahead on this road.
+bb98dd0bceac09d24db1ecb2af549a92,f2e4286e94457b8605069190e29f955a,Yes, there is a traffic sign indicating a roundabout coming up on the road
+b877dd782edba758ab429e3ee3de3329,f2e4286e94457b8605069190e29f955a,No motorcyclists can be seen in the image. The street is full
+b877dd782edba758ab429e3ee3de3329,f2e4286e94457b8605069190e29f955a,0
+4f59fbf51a0a5bfb4dc5af02cf294693,0cb55ed0d4ce02a27a2647c97c2ab6e8,Yes, there are several pedestrians crossing the road. In the image
+4f59fbf51a0a5bfb4dc5af02cf294693,0cb55ed0d4ce02a27a2647c97c2ab6e8,Yes, there are two pedestrians crossing the road in the image.
+e7f85a6744056849fb03c6c2fc8760c5,0cb55ed0d4ce02a27a2647c97c2ab6e8,There are two cyclists riding down the road.
+e7f85a6744056849fb03c6c2fc8760c5,0cb55ed0d4ce02a27a2647c97c2ab6e8,There are two cycling men riding on the road.
+95705feaac0515f7b77312771885e5bc,0cb55ed0d4ce02a27a2647c97c2ab6e8,Yes, the street has a cycle lane on one side, as evident by
+95705feaac0515f7b77312771885e5bc,0cb55ed0d4ce02a27a2647c97c2ab6e8,Yes, there is a dedicated cycle lane on the right side of the street
+fa7e0dd659520ac38a53948e9f348b35,0cb55ed0d4ce02a27a2647c97c2ab6e8,Pedestrians crossing street, justification 1, it's a
+fa7e0dd659520ac38a53948e9f348b35,0cb55ed0d4ce02a27a2647c97c2ab6e8,Driving car, justification is to commute to work or destination.
+c9c6a134fb3432ac6acadbd623e2caaa,0cb55ed0d4ce02a27a2647c97c2ab6e8,No, the lane is empty.
+c9c6a134fb3432ac6acadbd623e2caaa,0cb55ed0d4ce02a27a2647c97c2ab6e8,No, the lane is empty, and there is no traffic visible in the
+06b3e36dcd8b203f5dd698aca32339bc,a395b347e02d4f0bf9d69da3ebd52ea4,While driving, it's essential to focus on the traffic lights, road mark
+06b3e36dcd8b203f5dd698aca32339bc,a395b347e02d4f0bf9d69da3ebd52ea4,I am focusing on the street signs and traffic light in the image to ensure
+48ef042697fcfecf798dc8441a8d8627,a395b347e02d4f0bf9d69da3ebd52ea4,There is relatively minimal traffic in the image, as there are only two cars and
+48ef042697fcfecf798dc8441a8d8627,a395b347e02d4f0bf9d69da3ebd52ea4,In the image, there is a small piece of traffic with three cars parked
+f83361e7b4f147c70b47e65e584da08a,a395b347e02d4f0bf9d69da3ebd52ea4,Yes, there are cyclists in the scene. A group of four people can
+f83361e7b4f147c70b47e65e584da08a,a395b347e02d4f0bf9d69da3ebd52ea4,Yes, there are cyclists visible in the image. Several people on bikes
+0ae8a0bf679482f6d1ebb948aefb071d,a395b347e02d4f0bf9d69da3ebd52ea4,Yes, there is a traffic light in my lane, and it is showing
+0ae8a0bf679482f6d1ebb948aefb071d,a395b347e02d4f0bf9d69da3ebd52ea4,Yes, there are traffic lights in the lane. They are displaying a green
+a6d4e7c7cd305fc911ffbafe31d6977f,a395b347e02d4f0bf9d69da3ebd52ea4,Taking a picture of a city road, driving a car.
+a6d4e7c7cd305fc911ffbafe31d6977f,a395b347e02d4f0bf9d69da3ebd52ea4,Stopping traffic, other vehicles must do the same.
+706096127b4151944e7ead4dc589ea94,671f88abd84414b26768da2aa6f6a65f,I apologize for not stopping at the intersection, as seen in the image.
+706096127b4151944e7ead4dc589ea94,671f88abd84414b26768da2aa6f6a65f,I am part of an automated system that is monitoring the recently stopped car as
+64478e433295c83f00786de8edf5e8b9,671f88abd84414b26768da2aa6f6a65f,Yes, you have the right of way for a right turn at the upcoming
+64478e433295c83f00786de8edf5e8b9,671f88abd84414b26768da2aa6f6a65f,Yes, the image shows that it is legal to make a right turn at the
+7a106f2b003d3e869c76b59b97c30d46,671f88abd84414b26768da2aa6f6a65f,There are a total of two people in the image – one is walking behind a
+7a106f2b003d3e869c76b59b97c30d46,671f88abd84414b26768da2aa6f6a65f,There are two people present in this image.
+0235b71544efeec1e859a1f00330bb0f,671f88abd84414b26768da2aa6f6a65f,Yes, there is a traffic light in sight. The traffic light is displaying a
+0235b71544efeec1e859a1f00330bb0f,671f88abd84414b26768da2aa6f6a65f,Yes, there is a traffic light in sight, and it is green.
+fd1f6a4ae0a8df4b0fda0afd8248830b,671f88abd84414b26768da2aa6f6a65f,The passenger bus is actively changing lanes (leading) on a busy metropol
+fd1f6a4ae0a8df4b0fda0afd8248830b,671f88abd84414b26768da2aa6f6a65f,The bus is ford racing, justification: it offers slightly better performance ("r
+5931673848fa9a37e4ed44e3197d7108,6589b1e61fdd4905f501cccac9241d0b,Yes, you can proceed straight ahead. In the image, there are cars on
+5931673848fa9a37e4ed44e3197d7108,6589b1e61fdd4905f501cccac9241d0b,The image shows a street with several cars on it. One car is driving past
+4d90276889b93312b0cb24fb7f997b9c,6589b1e61fdd4905f501cccac9241d0b,Action: Walking across a street. Justification: People need to cross
+4d90276889b93312b0cb24fb7f997b9c,6589b1e61fdd4905f501cccac9241d0b,Person crossing street, justification for crossing street is to complete a bicycle
+117ee766ebc732db16529f2225e19f29,6589b1e61fdd4905f501cccac9241d0b,The car is driving on a three-lane street in a city. Yes,
+117ee766ebc732db16529f2225e19f29,6589b1e61fdd4905f501cccac9241d0b,Yes, the driver can change from the left lane to the right lane
+427c5367704e98e7e6ea613eee13afa9,6589b1e61fdd4905f501cccac9241d0b,Given the size of the intersection, it appears to be a smaller, city-
+427c5367704e98e7e6ea613eee13afa9,6589b1e61fdd4905f501cccac9241d0b,Yes, the car is properly positioned to make a left turn at the intersection
+32b726a7ef4081b3c49bc39c374b5ba7,6589b1e61fdd4905f501cccac9241d0b,There are three traffic lights visible in this image. Two traffic lights are showing green
+32b726a7ef4081b3c49bc39c374b5ba7,6589b1e61fdd4905f501cccac9241d0b,There are three traffic lights visible in the image. They are displaying red lights,
+eeb5333028e5883ae3bd42ce310f5a1d,9192c58d9644f2254f27d76948d46e0c,No, the lane is vacant and there is no traffic preventing forward
+eeb5333028e5883ae3bd42ce310f5a1d,9192c58d9644f2254f27d76948d46e0c,Yes, there is a bus stopped in your lane, which is blocking your
+ebcb71b452ee1aec1e34657cfdf613cd,9192c58d9644f2254f27d76948d46e0c,Yes, there is nobody crossing the street in the image, allowing for a smooth
+ebcb71b452ee1aec1e34657cfdf613cd,9192c58d9644f2254f27d76948d46e0c,Yes, the road is clear for me to accelerate on, and it appears
+965df131406b61789ce770ef0c48d367,9192c58d9644f2254f27d76948d46e0c,No, there are no cyclists visible in the image.
+965df131406b61789ce770ef0c48d367,9192c58d9644f2254f27d76948d46e0c,No, there are no cyclists in the image. It depicts an
+b51896c29b0037a0e52ba27f7abb4ff2,9192c58d9644f2254f27d76948d46e0c,There is a row of six parked cars visible in the image.
+b51896c29b0037a0e52ba27f7abb4ff2,9192c58d9644f2254f27d76948d46e0c,There are several parked cars visible on the street in the image.
+f9e6d6a81a613f94954759fa29cf9dc4,9192c58d9644f2254f27d76948d46e0c,Camera Background, Justification: Ensures road users' safety.
+f9e6d6a81a613f94954759fa29cf9dc4,9192c58d9644f2254f27d76948d46e0c,The action is starting the car engine, and the justification is that the car
+36a5235bcd9eeafe5536549b43a382d4,458febd2f34dcd202a1d21b7b75fcbc9,Yes, I need to come to a stop. The reason for it is that
+36a5235bcd9eeafe5536549b43a382d4,458febd2f34dcd202a1d21b7b75fcbc9,Yes, I need to come to a stop, as there is a red traffic
+bc3cc88ae4416e33d922d30633bb5c14,458febd2f34dcd202a1d21b7b75fcbc9,There are two pedestrians crossing the street in the image.
+bc3cc88ae4416e33d922d30633bb5c14,458febd2f34dcd202a1d21b7b75fcbc9,There are three pedestrians crossing the road.
+96b2f61186d8985150a5225a71391728,458febd2f34dcd202a1d21b7b75fcbc9,No, the lane is empty.
+96b2f61186d8985150a5225a71391728,458febd2f34dcd202a1d21b7b75fcbc9,No, there is no traffic in the lane or coming up from the intersection
+55a5198bc636eb7997b3da25166e111a,458febd2f34dcd202a1d21b7b75fcbc9,Drivers straight through crosswalk place; slows traffic from city suite r
+55a5198bc636eb7997b3da25166e111a,458febd2f34dcd202a1d21b7b75fcbc9,The vehicle's driver is watching traffic lights while stopped on the road. The
+c918c0ad5ea1dc236fb6f2727617c4fb,458febd2f34dcd202a1d21b7b75fcbc9,Yes, there are cyclists visible on the road. They are located in the
+c918c0ad5ea1dc236fb6f2727617c4fb,458febd2f34dcd202a1d21b7b75fcbc9,Yes, a cyclist is visible on the road. They are riding on
+6f05518e9fc9af2b7dc864f7ed7b8603,e07246bab040227c8561572a226333d5,Yes, there is a traffic light that hinders your forward movement on the
+6f05518e9fc9af2b7dc864f7ed7b8603,e07246bab040227c8561572a226333d5,The yellow line in the image could be considered an obstacle that hinders
+b75be00c7794873028185e914b8024dc,e07246bab040227c8561572a226333d5,Man riding bike on street, justification: biking is an
+b75be00c7794873028185e914b8024dc,e07246bab040227c8561572a226333d5,Crouching to cross the road, actor has ample time to see on
+64feac8e25b4284b5ff1f3bab4b26cb9,e07246bab040227c8561572a226333d5,Yes, it is necessary to slow down at this point because there are several cars
+64feac8e25b4284b5ff1f3bab4b26cb9,e07246bab040227c8561572a226333d5,Yes, slowing down is advisable at this point. A person on a
+e1270639f411325b01b45d1bfa8a8aeb,e07246bab040227c8561572a226333d5,The elements capturing my attention in this scene include a bicycle rider
+e1270639f411325b01b45d1bfa8a8aeb,e07246bab040227c8561572a226333d5,In the image, I am drawn to the man wearing a green shirt
+0e26830feddb885743bb074007bc5caa,e07246bab040227c8561572a226333d5,To navigate the city street safely and cooperatively with others, your ideal speed
+0e26830feddb885743bb074007bc5caa,e07246bab040227c8561572a226333d5,Your ideal speed for turning right through the intersection should be 10 miles per
+14858d3fc909b2f175ff64b9f10cf59d,d0983de189bba9f90dfd5f91e81be620,In the image, I intend to step into the street and cross the road with
+14858d3fc909b2f175ff64b9f10cf59d,d0983de189bba9f90dfd5f91e81be620,Based on the image, I plan to follow a red bus which is turning left
+53d3b48462adcf7fde874d96b65f6676,d0983de189bba9f90dfd5f91e81be620,Yes, there is a bus ahead of me in this narrow street.
+53d3b48462adcf7fde874d96b65f6676,d0983de189bba9f90dfd5f91e81be620,Yes, there is a double bus in front of my car while traveling down
+8b25b53f48fe5c2960210d152e2fbc4d,d0983de189bba9f90dfd5f91e81be620,I can see a few parked vehicles near the street, but I cannot provide
+8b25b53f48fe5c2960210d152e2fbc4d,d0983de189bba9f90dfd5f91e81be620,I can see several parked vehicles on the side of the road in the image
+a17dd1676db260c7b69272d666722656,d0983de189bba9f90dfd5f91e81be620,Driving in the city roads. Justification: The person is driving through
+a17dd1676db260c7b69272d666722656,d0983de189bba9f90dfd5f91e81be620,The current action is driving past the intersection, and the justification is that the
+ada227c90281d26df80175526fb33856,d0983de189bba9f90dfd5f91e81be620,As a recommendation, it is advisable to brake when approaching an intersection where
+ada227c90281d26df80175526fb33856,d0983de189bba9f90dfd5f91e81be620,Given the image, it's unclear whether or not I am inside a car
+e5151a16fcc1bd7a9db7cce0ee392cb7,46d5b17141fa51e9654427ff1fb7ffc7,In the image, the elements capturing my attention are the busy street, the
+e5151a16fcc1bd7a9db7cce0ee392cb7,46d5b17141fa51e9654427ff1fb7ffc7,In the image, the elements that are capturing my attention include the yellow letters
+65863cc168e769fdf79d3d22d7669296,46d5b17141fa51e9654427ff1fb7ffc7,In the image, there are many people crossing the street, and a business establishment
+65863cc168e769fdf79d3d22d7669296,46d5b17141fa51e9654427ff1fb7ffc7,In the image, a busy city street is depicted with a large van,
+031eb66c4c5c72601232b93f318e9486,46d5b17141fa51e9654427ff1fb7ffc7,Based on the available information in the image, it is suggested that you wait at
+031eb66c4c5c72601232b93f318e9486,46d5b17141fa51e9654427ff1fb7ffc7,No, it is not safe to enter the intersection at this time. A black
+aa2f9b3a78842f316adedb53521a7973,46d5b17141fa51e9654427ff1fb7ffc7,Vehicles are maneuvering through an intersection, with one car taking
+aa2f9b3a78842f316adedb53521a7973,46d5b17141fa51e9654427ff1fb7ffc7,Driving, to traverse the street where vehicles, including a van, a
+faaa3cdd941a0e11aa09b763fe31b9e4,46d5b17141fa51e9654427ff1fb7ffc7,In the image, I am changing lane because it's time to turn
+faaa3cdd941a0e11aa09b763fe31b9e4,46d5b17141fa51e9654427ff1fb7ffc7,I am changing lanes because I am currently in a busy street with many cars
+64f4b4520b9752dd29044b3ccd8a3b39,0f54dedab4ab997e8cdf97c570146292,Stalking, the woman is considered a harmless observer, following from
+64f4b4520b9752dd29044b3ccd8a3b39,0f54dedab4ab997e8cdf97c570146292,Walking away from the bus, justifying distance from the bus due to legal
+e4a586f23ab5083a397fee1597c54556,0f54dedab4ab997e8cdf97c570146292,Yes, there is traffic in your accessible lane area as a red double-
+e4a586f23ab5083a397fee1597c54556,0f54dedab4ab997e8cdf97c570146292,Yes, there is traffic in the lane where I am parking. Ve
+2e21668a54ee594a356ec663e5fe1c4c,0f54dedab4ab997e8cdf97c570146292,No, you should not accelerate to follow the bus. In the image,
+2e21668a54ee594a356ec663e5fe1c4c,0f54dedab4ab997e8cdf97c570146292,No, you should not accelerate to follow the bus. The person on the
+110acb6b1a76a8e7f39c550b1874b547,0f54dedab4ab997e8cdf97c570146292,Yes, there is a large red and yellow bus on the other side of the
+110acb6b1a76a8e7f39c550b1874b547,0f54dedab4ab997e8cdf97c570146292,No, there isn't a blocker preventing me from walking. However
+f669fb93aa32fe758eb9b4f06e15d76d,0f54dedab4ab997e8cdf97c570146292,Green
+f669fb93aa32fe758eb9b4f06e15d76d,0f54dedab4ab997e8cdf97c570146292,Red
+45adbd6608819048d23e7ebd6d85bd3b,8e9323f72ccc4b6637f4f27f0657f3d4,In this scenario, one should pay close attention to the traffic and pedestrian
+45adbd6608819048d23e7ebd6d85bd3b,8e9323f72ccc4b6637f4f27f0657f3d4,In this scenario, it is essential to pay attention to the truck driving down
+ada9a09151269aeabd7fc7c92edc1f5f,8e9323f72ccc4b6637f4f27f0657f3d4,There are three pedestrians crossing the road.
+ada9a09151269aeabd7fc7c92edc1f5f,8e9323f72ccc4b6637f4f27f0657f3d4,There are three pedestrians crossing the road.
+50f39223d3904e914a28fcc4179b11d7,8e9323f72ccc4b6637f4f27f0657f3d4,Yes, there are traffic lights on the wet city street. They are showing green
+50f39223d3904e914a28fcc4179b11d7,8e9323f72ccc4b6637f4f27f0657f3d4,Yes, there are traffic lights along the street. Since they are yellow, drivers
+20018bf30a7de649ccf6f358877197bd,8e9323f72ccc4b6637f4f27f0657f3d4,There are three cyclists riding down the street in wet weather.
+20018bf30a7de649ccf6f358877197bd,8e9323f72ccc4b6637f4f27f0657f3d4,There are no cyclists visible in the image. So, the answer is zero
+02383afb5fa8609c0509c6ad683270d0,8e9323f72ccc4b6637f4f27f0657f3d4,Pedestrian crossing the street, walking to the corner.
+02383afb5fa8609c0509c6ad683270d0,8e9323f72ccc4b6637f4f27f0657f3d4,Driving car, justification - need to reach destination.
+e29817a79c9f93fef0bbbc9f22e041fc,e99f7824f2219b27f6bddc184eb505c1,It is not clear from the image whether the bus has stopped or not, as
+e29817a79c9f93fef0bbbc9f22e041fc,e99f7824f2219b27f6bddc184eb505c1,The bus is stopped next to the sidewalk to allow a person to cross the
+cb9d365fecd467d866e6848c09eb164d,e99f7824f2219b27f6bddc184eb505c1,Yes, there is traffic on the opposite lane next to the red bus.
+cb9d365fecd467d866e6848c09eb164d,e99f7824f2219b27f6bddc184eb505c1,Yes, there is traffic in the double lane behind a red bus. There
+daafd1717974aeab9816c0ee21da75a7,e99f7824f2219b27f6bddc184eb505c1,Though buses are larger and might create a blind spot for them due to their
+daafd1717974aeab9816c0ee21da75a7,e99f7824f2219b27f6bddc184eb505c1,It is not possible to overtake the cyclists in the provided image as they
+c11bfa8549fb5ff57902a9856af7489e,e99f7824f2219b27f6bddc184eb505c1,Yes, it is required for me to come to a stop in this situation.
+c11bfa8549fb5ff57902a9856af7489e,e99f7824f2219b27f6bddc184eb505c1,Yes, it is required for me to come to a stop as there are other
+5b4213a0f2af953a9b13b9e1c17e22f2,e99f7824f2219b27f6bddc184eb505c1,The person is riding a bike past the English double-decker red
+5b4213a0f2af953a9b13b9e1c17e22f2,e99f7824f2219b27f6bddc184eb505c1,The man on a bicycle is stopping in front of the red bus in
+a5fffa577ad85f02842be4b494c0c412,d082bdc55d81a79652063c87996514aa,Yes, there is a traffic light visible in the image. The traffic light is
+a5fffa577ad85f02842be4b494c0c412,d082bdc55d81a79652063c87996514aa,Yes, there is a traffic light present in the image. Its color is red
+728815a5bd3b48e323b65950888801f7,d082bdc55d81a79652063c87996514aa,No, there are no emergency vehicles present in the image. The scene dep
+728815a5bd3b48e323b65950888801f7,d082bdc55d81a79652063c87996514aa,Yes, there is an ambulance officers bus in the middle of a line
+a5def98b01dd1b69b70eb93c5560be72,d082bdc55d81a79652063c87996514aa,Driving, the vehicle is traveling through traffic to reach its destination.
+a5def98b01dd1b69b70eb93c5560be72,d082bdc55d81a79652063c87996514aa,The current action in the image is a red bus on the road, and in
+7e02239edf0b705ab28cb7eb301a1d2f,d082bdc55d81a79652063c87996514aa,In the image, there are rows of red and white buses driving down a
+7e02239edf0b705ab28cb7eb301a1d2f,d082bdc55d81a79652063c87996514aa,You should pay attention to the two large red passenger buses and the traffic situation
+06bbcb4587ad9d9547ff6786fd2c3bef,d082bdc55d81a79652063c87996514aa,There are three buses parked in the street, which can be an obst
+06bbcb4587ad9d9547ff6786fd2c3bef,d082bdc55d81a79652063c87996514aa,No, I am not facing any significant obstacles such as traffic or other vehicles
+4860009561613bec77fcc736e767e83a,7cf8c089882c2b649b788bbd01d6e94f,Yes, there are bicycles on the road as the man is riding
+4860009561613bec77fcc736e767e83a,7cf8c089882c2b649b788bbd01d6e94f,Yes, there is a man riding a bicycle in the middle of
+11c88d44b70010194299119179ae67b4,7cf8c089882c2b649b788bbd01d6e94f,The color of the traffic lights at this intersection is orange.
+11c88d44b70010194299119179ae67b4,7cf8c089882c2b649b788bbd01d6e94f,The traffic lights at this intersection are blue.
+a87f1591498ea59ca22ffdbabe027c80,7cf8c089882c2b649b788bbd01d6e94f,Man is pushing a stroller and the child is sitting on it. Justification
+a87f1591498ea59ca22ffdbabe027c80,7cf8c089882c2b649b788bbd01d6e94f,Bicyclist is riding in bike lane, justification:
+15433a57e93bdd85dae018f97d946107,7cf8c089882c2b649b788bbd01d6e94f,Yes, there is a white van ahead of me in my lane on this
+15433a57e93bdd85dae018f97d946107,7cf8c089882c2b649b788bbd01d6e94f,No, the lane is empty of vehicles ahead of the one that is approaching
+37628cdcb0a71e3955c1ce1e920c5d4e,7cf8c089882c2b649b788bbd01d6e94f,In the image, a man on a bicycle is riding in front
+37628cdcb0a71e3955c1ce1e920c5d4e,7cf8c089882c2b649b788bbd01d6e94f,As an AI, I plan to continue following the traffic rules and changing lan
+ffc8dec4fbe1d76c0a4850053f08c59f,0ad3c6571f5aff651d43b4014b693e94,Yes, there are zebra crossings ahead on the street.
+ffc8dec4fbe1d76c0a4850053f08c59f,0ad3c6571f5aff651d43b4014b693e94,Yes, the image depicts a walkway to be crossed at the intersection
+6fb4b82e3004d61fca7e5af61df74ccf,0ad3c6571f5aff651d43b4014b693e94,In this image, a large group of pedestrians is crossing a city
+6fb4b82e3004d61fca7e5af61df74ccf,0ad3c6571f5aff651d43b4014b693e94,In this image, a man is crossing the street at a crosswalk, while
+99e66a94b6b25c813470a244e4c25bae,0ad3c6571f5aff651d43b4014b693e94,Crossing the street, staying awake for those walking.
+99e66a94b6b25c813470a244e4c25bae,0ad3c6571f5aff651d43b4014b693e94,Man is crossing street, justification is visible traffic light, crosswalk, and
+d6436e881b7d1b945ea15dcac8547296,0ad3c6571f5aff651d43b4014b693e94,The image shows the time just before 7 pm, and the streets appear relatively
+d6436e881b7d1b945ea15dcac8547296,0ad3c6571f5aff651d43b4014b693e94,Since it is not yet sunny, the visibility might be low or roads could
+0fa0e48f0af0b835c0f75ed28fd3f7df,0ad3c6571f5aff651d43b4014b693e94,No, there is no traffic on the road ahead. This calm representation of a
+0fa0e48f0af0b835c0f75ed28fd3f7df,0ad3c6571f5aff651d43b4014b693e94,No, there is no traffic visible on the road ahead for pedestrians
+6b4e94f9cb2d7ff4af248bc74a331d37,69600f140a234e057c519e38116e7a89,Yes, there are traffic lights present in the image. They are displaying the color
+6b4e94f9cb2d7ff4af248bc74a331d37,69600f140a234e057c519e38116e7a89,Yes, there are multiple traffic lights on the street. At two of the traffic
+4f8cb99b920a61ccd0f1397a16623933,69600f140a234e057c519e38116e7a89,Yes, the white van is parked at a curb.
+4f8cb99b920a61ccd0f1397a16623933,69600f140a234e057c519e38116e7a89,Yes, the white truck is parked on the side of the road at
+82ce1e41670bcf2726cb72f517841976,69600f140a234e057c519e38116e7a89,Yes, the car in front of the traffic lights is stopping at the traffic signals
+82ce1e41670bcf2726cb72f517841976,69600f140a234e057c519e38116e7a89,Yes, the car in front is stopping at the traffic lights, as noted in
+f2846ffa16a9d86d5a30356dfe0d0d62,69600f140a234e057c519e38116e7a89,There is a group or a crowd of people crossing the road, but I cannot
+f2846ffa16a9d86d5a30356dfe0d0d62,69600f140a234e057c519e38116e7a89,There are four pedestrians crossing the road in the image.
+a0bf0b3896d98b5820d1afd28724f319,69600f140a234e057c519e38116e7a89,A person wearing a yellow jacket is crossing a street. Justification
+a0bf0b3896d98b5820d1afd28724f319,69600f140a234e057c519e38116e7a89,Cyclist turning left, following traffic rules.
+ff650981695f0f04e0e8e8d46e4bb73c,3561e15b7feb2e922e9c962754f75dde,A bicycle rider is riding down the street, interacting with
+ff650981695f0f04e0e8e8d46e4bb73c,3561e15b7feb2e922e9c962754f75dde,Man riding bicycle, justification for this action is that it is
+20f0eb9596a520b6560a6fceb1d1ef81,3561e15b7feb2e922e9c962754f75dde,Yes, the driver needs to come to a stop. The image shows that the
+20f0eb9596a520b6560a6fceb1d1ef81,3561e15b7feb2e922e9c962754f75dde,Yes, as a driver, you should come to a stop at the red light
+672c6891cbd60b8c79ebd9d14b4021c7,3561e15b7feb2e922e9c962754f75dde,There are two cyclists in the image. They are riding their bicy
+672c6891cbd60b8c79ebd9d14b4021c7,3561e15b7feb2e922e9c962754f75dde,I can see one person riding a bicycle on the street.
+d8a141555d0a5bc35a70ced5ab848aec,3561e15b7feb2e922e9c962754f75dde,In the image, a cyclist is riding down a road with numerous park
+d8a141555d0a5bc35a70ced5ab848aec,3561e15b7feb2e922e9c962754f75dde,There is a bicyclist riding on the road, which is a
+4556739ce595296635b70173b7183a4c,3561e15b7feb2e922e9c962754f75dde,Yes, there is a pedestrian walking alongside the road, preparing to
+4556739ce595296635b70173b7183a4c,3561e15b7feb2e922e9c962754f75dde,Yes, there is a single pedestrian waiting to cross the road on the
+25276cee5904aa09ea65655df89c0c09,7ae30db643ea8d142589ff909fdb0a63,There are two cyclists on the road, with one of them riding close
+25276cee5904aa09ea65655df89c0c09,7ae30db643ea8d142589ff909fdb0a63,There is only one cyclist on the wet road.
+42d0cd97362d36b7ef3afb0b152d19d6,7ae30db643ea8d142589ff909fdb0a63,Dry streets, justification: Red rain when a city's streets become
+42d0cd97362d36b7ef3afb0b152d19d6,7ae30db643ea8d142589ff909fdb0a63,Bicycle rider waiting for the traffic light to change, Intending to
+8ddd75507f10ab9e3b500f81958f12c1,7ae30db643ea8d142589ff909fdb0a63,Yes, there is a significant traffic hazard ahead on this city street.
+8ddd75507f10ab9e3b500f81958f12c1,7ae30db643ea8d142589ff909fdb0a63,In the image, the bus is passing through an intersection with a red traffic light
+55e675a4f64116b4bdd8f21c36d4e64f,7ae30db643ea8d142589ff909fdb0a63,No, it is not safe for me to accelerate. The road is likely
+55e675a4f64116b4bdd8f21c36d4e64f,7ae30db643ea8d142589ff909fdb0a63,No, it is not safe for me to accelerate, as the traffic situation
+24504ee58deeeb036006c07f85186375,7ae30db643ea8d142589ff909fdb0a63,In the image, the primary factors preventing me from accelerating are the stopped
+24504ee58deeeb036006c07f85186375,7ae30db643ea8d142589ff909fdb0a63,At this point, there are a couple of things preventing me from accelerating
+f25c0c7c366e629531bb2ae097bd899a,eafb7e051fe110abb845b985ae6d9a2b,Yes, there are traffic lights visible in the image, and they are bright yellow
+f25c0c7c366e629531bb2ae097bd899a,eafb7e051fe110abb845b985ae6d9a2b,Yes, there are visible traffic lights pointing down the street, and they are yellow
+74075b9d1d3f898af0b30f698357b3cc,eafb7e051fe110abb845b985ae6d9a2b,There are two pedestrians crossing the road in the scene.
+74075b9d1d3f898af0b30f698357b3cc,eafb7e051fe110abb845b985ae6d9a2b,There are two pedestrians crossing the road.
+54f457677e9cff55d24096ab55410f18,eafb7e051fe110abb845b985ae6d9a2b,There are two pedestrians on the street.
+54f457677e9cff55d24096ab55410f18,eafb7e051fe110abb845b985ae6d9a2b,There are two pedestrians walking down the street in the image.
+d0601315b75823a14a2dee73690a122f,eafb7e051fe110abb845b985ae6d9a2b,Yes, there is a man walking and a city bus driving in the opposite direction
+d0601315b75823a14a2dee73690a122f,eafb7e051fe110abb845b985ae6d9a2b,No, the traffic in the image is one-way, with cars moving in
+6a381270a3d4c85837e68334addaec23,eafb7e051fe110abb845b985ae6d9a2b,Waiting for people to pass by before driving. Justification: Conducting
+6a381270a3d4c85837e68334addaec23,eafb7e051fe110abb845b985ae6d9a2b,Man walking across the street, crossing the intersection. A well-known reason for
+d534d48e492d528cac5084b66c8a2d33,e2e859bb03ca10ec89d45bd16c3879ce,Yes, the cyclist is riding in a designated bike lane in
+d534d48e492d528cac5084b66c8a2d33,e2e859bb03ca10ec89d45bd16c3879ce,Yes, the cyclist is using the dedicated cycle lane.
+033495d1f5a21b60b6460284b3d37c0b,e2e859bb03ca10ec89d45bd16c3879ce,Yes, there is a bicycle traveling on the road alongside a car
+033495d1f5a21b60b6460284b3d37c0b,e2e859bb03ca10ec89d45bd16c3879ce,Yes, there is a vehicle in the lane, an orange bike and
+3fd76c0d0133cf75221d963bd4c256a6,e2e859bb03ca10ec89d45bd16c3879ce,Riding a bicycle down the street. A woman is crossing the street
+3fd76c0d0133cf75221d963bd4c256a6,e2e859bb03ca10ec89d45bd16c3879ce,Action: Biking on the sidewalk. Justification: This is
+8a88bde45d2e9bd02bfb2872490de52f,e2e859bb03ca10ec89d45bd16c3879ce,The weather appears to be wet and rainy, as evidenced by the
+8a88bde45d2e9bd02bfb2872490de52f,e2e859bb03ca10ec89d45bd16c3879ce,The weather is rainy and gloomy.
+5d01bcf254729fdfd366c0c75d7a9604,e2e859bb03ca10ec89d45bd16c3879ce,Given the rainy and foggy conditions, it is generally advised to reduce
+5d01bcf254729fdfd366c0c75d7a9604,e2e859bb03ca10ec89d45bd16c3879ce,In a rainy city street, it is crucial to be cautious
+8de7006a398fe83def580c83509a7846,94dee4a9b5603e9cbac8c2444d6cda6e,There are three motorcyclists visible in the scene.
+8de7006a398fe83def580c83509a7846,94dee4a9b5603e9cbac8c2444d6cda6e,There are two motorcyclists on the street.
+c370c22fb5cccd99a72f0e03e8258ce3,94dee4a9b5603e9cbac8c2444d6cda6e,Traffic signal, various scenarios.
+c370c22fb5cccd99a72f0e03e8258ce3,94dee4a9b5603e9cbac8c2444d6cda6e,Riding bicycles, justification: Exercise, enjoy the out
+66ab64fe89ebba7a83b32923a0d30d39,94dee4a9b5603e9cbac8c2444d6cda6e,There are enough cyclists in the image to create an impression that they might be
+66ab64fe89ebba7a83b32923a0d30d39,94dee4a9b5603e9cbac8c2444d6cda6e,In the image, there are two people riding their bikes down the street
+3c50e6232999f73fc88abd8ffa243ec0,94dee4a9b5603e9cbac8c2444d6cda6e,Yes, there are a couple of traffic lights on my lane. They are
+3c50e6232999f73fc88abd8ffa243ec0,94dee4a9b5603e9cbac8c2444d6cda6e,Yes, there is a traffic light on the side of the lane. The
+df1a58a1d535e2794d8648715a7c9e3e,94dee4a9b5603e9cbac8c2444d6cda6e,In the image, a car can be observed. There are no other cars visible
+df1a58a1d535e2794d8648715a7c9e3e,94dee4a9b5603e9cbac8c2444d6cda6e,I can spot one car in the image as it goes down the street with b
+2e25826d3b274f70182bf4fad2c404ce,74f8db8cfd196bdaf188f43e2aba689d,Riding a bicycle, obeying traffic signs. Justification
+2e25826d3b274f70182bf4fad2c404ce,74f8db8cfd196bdaf188f43e2aba689d,Riding down the road, justification: Underlined phrase is "One Way
+d6b58d4f1cbefe25e4d18485dab96e64,74f8db8cfd196bdaf188f43e2aba689d,Yes, there are traffic signals in the image, and the color displayed is red
+d6b58d4f1cbefe25e4d18485dab96e64,74f8db8cfd196bdaf188f43e2aba689d,Yes, there are traffic signals in the scene. The image displays a red traffic
+0078d30631c287c02400ee1c66f7a56a,74f8db8cfd196bdaf188f43e2aba689d,Yes, the cyclist is riding in a dedicated bike lane on
+0078d30631c287c02400ee1c66f7a56a,74f8db8cfd196bdaf188f43e2aba689d,No, the cyclist is not in a dedicated cycle lane. They are
+6245b4b13d19d715edfb45fde2d1d2c4,74f8db8cfd196bdaf188f43e2aba689d,Although I cannot directly see the presence of roadworks or construction zones, we can
+6245b4b13d19d715edfb45fde2d1d2c4,74f8db8cfd196bdaf188f43e2aba689d,There is a street sign with an arrow pointing towards an exit sign that the cycl
+e2927ad948b1a832f6880041a732dc2b,74f8db8cfd196bdaf188f43e2aba689d,Yes, I can indeed overtake the man on the bicycle riding
+e2927ad948b1a832f6880041a732dc2b,74f8db8cfd196bdaf188f43e2aba689d,No, based on the image, you cannot overtake the cyclist. There
+5d82908d65ce29c3106311be77c5b3bb,0c137e4925941da4553d0ce02ab9c770,Yes, in this scenario, the man on the bicycle needs to come
+5d82908d65ce29c3106311be77c5b3bb,0c137e4925941da4553d0ce02ab9c770,No, the man is not required to come to a stop in the provided image
+59c71df8b4ea036a2a4ef15b899d5d48,0c137e4925941da4553d0ce02ab9c770,It is both possible and likely for the car to accelerate in this situation.
+59c71df8b4ea036a2a4ef15b899d5d48,0c137e4925941da4553d0ce02ab9c770,Yes, it is possible for the vehicle in the image to accelerate. Since
+5cdae4783763d6472e3619b46cad276b,0c137e4925941da4553d0ce02ab9c770,Riding bicycle, staying active and healthy - Driving
+5cdae4783763d6472e3619b46cad276b,0c137e4925941da4553d0ce02ab9c770,Bicycling, pedestrians assume reduced weight on vehicle.
+d0722f931953c8c76da108d8a5d801b7,0c137e4925941da4553d0ce02ab9c770,Yes, you can overtake the cyclist by moving forward and positioning your
+d0722f931953c8c76da108d8a5d801b7,0c137e4925941da4553d0ce02ab9c770,Based on the image, you cannot overtake the cyclist as you are both
+ab7a6a4b57fe7b7f298b39706e2ee282,0c137e4925941da4553d0ce02ab9c770,Yes, there is one vehicle stopped at the zebra crossing as the male
+ab7a6a4b57fe7b7f298b39706e2ee282,0c137e4925941da4553d0ce02ab9c770,Yes, there is a silver car stopped at the zebra crossing where the
+5977f6135b136b0924d18d5092a7a10b,b458631e4e946fe134f09a9e979d6347,Yes, there is a fire hydrant located on the street, but it is
+5977f6135b136b0924d18d5092a7a10b,b458631e4e946fe134f09a9e979d6347,Based on the available image, it is difficult to determine if there is a ha
+bfa1123c4d0196380e0b95cbb97a1705,b458631e4e946fe134f09a9e979d6347,Yes, there are some traffic lights in the scene. The colored lights signal the
+bfa1123c4d0196380e0b95cbb97a1705,b458631e4e946fe134f09a9e979d6347,Yes, there are traffic lights in the scene with their green light on.
+d15c3806857a42dbf7d4cdfcd7b4dfdb,b458631e4e946fe134f09a9e979d6347,Driving down the road, yield to right, small acar with a
+d15c3806857a42dbf7d4cdfcd7b4dfdb,b458631e4e946fe134f09a9e979d6347,Car is moving, parked cars on other side of street. Yes, it
+38c0855d546839314788d610610afe9b,b458631e4e946fe134f09a9e979d6347,Due to the unfocused picture and deformity of the image, it
+38c0855d546839314788d610610afe9b,b458631e4e946fe134f09a9e979d6347,Yes, there is a potential hazard on the street ahead. A down
+1bf73a88123495af14d55f1e1be495a3,b458631e4e946fe134f09a9e979d6347,There are two cyclists on the road.
+1bf73a88123495af14d55f1e1be495a3,b458631e4e946fe134f09a9e979d6347,There are several cyclists riding on the street amid the heavy traffic.
+aaa92c773a111d8f509a09d176d2cdd4,cc0f48b73f7f13adff2113931a41805e,No, it is not possible for the car to accelerate at this moment,
+aaa92c773a111d8f509a09d176d2cdd4,cc0f48b73f7f13adff2113931a41805e,Yes, it would be safe to accelerate in this situation. The reason is
+1b2e59dd33449c8555a5a1ff932d2b86,cc0f48b73f7f13adff2113931a41805e,There are two pedestrians crossing the street in the image.
+1b2e59dd33449c8555a5a1ff932d2b86,cc0f48b73f7f13adff2113931a41805e,There are two pedestrians crossing the road.
+2f73628901788216bd1f44fe6e3c5281,cc0f48b73f7f13adff2113931a41805e,Yes, right is the marked turn for drivers.
+2f73628901788216bd1f44fe6e3c5281,cc0f48b73f7f13adff2113931a41805e,Yes, I can turn right.
+cca2067320e6e3f27155a3615ba02294,cc0f48b73f7f13adff2113931a41805e,There are no cars driving in my direction, as I am on a street looking
+cca2067320e6e3f27155a3615ba02294,cc0f48b73f7f13adff2113931a41805e,There are no cars driving in my direction. A person stopped at a crosswalk
+694c045c22f46472c5a939b678079f21,cc0f48b73f7f13adff2113931a41805e,Walking at crosswalk, justification is to ensure personal safety in crossing the
+694c045c22f46472c5a939b678079f21,cc0f48b73f7f13adff2113931a41805e,Stopping walking or stopping crossing for a pedestrian, traffic.
+d8c757f84feaefe78dd4dfd7af4c10c3,79025c008b1da246fedc52de4db9bd75,stopping on the roadway, as it is a cold and rainy day.
+d8c757f84feaefe78dd4dfd7af4c10c3,79025c008b1da246fedc52de4db9bd75,Plow roadway, justification is due to insufficient snow to cover
+253a714bed254fb45bdf7e7f3d20f05f,79025c008b1da246fedc52de4db9bd75,I am accelerating to allow other cars, especially the red car at the front
+253a714bed254fb45bdf7e7f3d20f05f,79025c008b1da246fedc52de4db9bd75,During this image, I am driving a red car either in traffic or during normal
+897c2c3d4fda3517c77fd4fc25b73b5d,79025c008b1da246fedc52de4db9bd75,Yes, there is a speed bump on the road ahead of the red sports
+897c2c3d4fda3517c77fd4fc25b73b5d,79025c008b1da246fedc52de4db9bd75,In the image, red car ahead, red cars are driving on a city street
+f7da9d63e22b88509d72fbbc969f06d7,79025c008b1da246fedc52de4db9bd75,There are two pedestrians crossing the road ahead.
+f7da9d63e22b88509d72fbbc969f06d7,79025c008b1da246fedc52de4db9bd75,There is one pedestrian crossing the road ahead.
+833397aa1ce1b1df88ea4da5f165d4cd,79025c008b1da246fedc52de4db9bd75,No, it is not safe to overtake the cyclist ahead to the left
+833397aa1ce1b1df88ea4da5f165d4cd,79025c008b1da246fedc52de4db9bd75,No, it is not safe to overtake the cyclist ahead to your left
+4dabd5c30d575585c0ee41821524beb7,0ff4996e9ca57453795987c48245dc15,I cannot see any cyclists in the image, but the street consists of various
+4dabd5c30d575585c0ee41821524beb7,0ff4996e9ca57453795987c48245dc15,I cannot see any cyclists in the image. Instead, there are several cars
+7afb8f932d90f7ed07e82189416451f7,0ff4996e9ca57453795987c48245dc15,Left
+7afb8f932d90f7ed07e82189416451f7,0ff4996e9ca57453795987c48245dc15,Left
+85fb761fc64debae7ed3b86881af78b4,0ff4996e9ca57453795987c48245dc15,There are several parked cars on the street, indicating that many vehicles are in
+85fb761fc64debae7ed3b86881af78b4,0ff4996e9ca57453795987c48245dc15,There are multiple parked cars on the street, positioned on both sides of
+1109aa77084d1420cd0a6af1c0347abb,0ff4996e9ca57453795987c48245dc15,A delivery truck is stopped on the side of the road, unloading boxes
+1109aa77084d1420cd0a6af1c0347abb,0ff4996e9ca57453795987c48245dc15,A worker is getting off a truck, justification: Delivering items
+7b136c6164abf75b282b294ba8d25f24,0ff4996e9ca57453795987c48245dc15,Based on the image analysis, we cannot determine the exact reason for the truck
+7b136c6164abf75b282b294ba8d25f24,0ff4996e9ca57453795987c48245dc15,I am using a forward-facing camera system to record street traffic. My
+97b900ca565b85ed996e0fbbbee9bd72,a1109658670fb29d13ac113d322c004c,Vehicles are driving in the street, as it is a justifiable action
+97b900ca565b85ed996e0fbbbee9bd72,a1109658670fb29d13ac113d322c004c,Vehicles are driving in the same direction as traffic arrows, demonstrating
+d9d0e72a885fe77a501c801cd159840d,a1109658670fb29d13ac113d322c004c,There are no traffic lights visible in the image.
+d9d0e72a885fe77a501c801cd159840d,a1109658670fb29d13ac113d322c004c,The traffic lights are yellow.
+af7f8c085825f900f2286286a037169a,a1109658670fb29d13ac113d322c004c,The road has a speed limit of 30 mph.
+af7f8c085825f900f2286286a037169a,a1109658670fb29d13ac113d322c004c,The road speed limit in the image is 10 miles per hour.
+939f41613979657ba0d9b5ff35921938,a1109658670fb29d13ac113d322c004c,Yes, it is legal to turn right at this intersection. In the image,
+939f41613979657ba0d9b5ff35921938,a1109658670fb29d13ac113d322c004c,Yes, you can turn right at this intersection because a right arrow is visible on
+7c48edc645012bfb983d0861eb58b520,a1109658670fb29d13ac113d322c004c,Yes, there is traffic in the lane. There are cars, a tr
+7c48edc645012bfb983d0861eb58b520,a1109658670fb29d13ac113d322c004c,Yes, there is traffic in the lane. The vehicle that is causing the
+851075aac237e8e9ff7836acb3c508de,2a469a9042a47e4c68cadfaa7bdb4519,Yes, there are cyclists around. They can be spotted in the photo
+851075aac237e8e9ff7836acb3c508de,2a469a9042a47e4c68cadfaa7bdb4519,Yes, there are cyclists in the scene. They can be seen on the
+9e734f5dae8528dc78b9738265040a5e,2a469a9042a47e4c68cadfaa7bdb4519,I can't accurately identify the number of parked cars from my two
+9e734f5dae8528dc78b9738265040a5e,2a469a9042a47e4c68cadfaa7bdb4519,There are three parked cars visible on the left side of the town street.
+02f75a2261669fc4f359047a4821f5b2,2a469a9042a47e4c68cadfaa7bdb4519,Yes, you should decelerate because you are driving dangerously on a city
+02f75a2261669fc4f359047a4821f5b2,2a469a9042a47e4c68cadfaa7bdb4519,Although the image suggests it's a sunny day, there might still be
+286303d340118f875838bbb69acf2154,2a469a9042a47e4c68cadfaa7bdb4519,Pedestrians are walking across the street, justifying that they are following
+286303d340118f875838bbb69acf2154,2a469a9042a47e4c68cadfaa7bdb4519,The person is riding a bicycle, going north. Justification is
+930adf80d94d1ed3b77bc06adcfba3a3,2a469a9042a47e4c68cadfaa7bdb4519,I will take the next action of moving forward, initiating my ride to the
+930adf80d94d1ed3b77bc06adcfba3a3,2a469a9042a47e4c68cadfaa7bdb4519,I will ride my bike to the waiting cyclists on the sidewalk.
+c1e914be895642247e13a37d39e37807,55e44f08b5e036f3807756a162e3f66b,Yes, you are positioned correctly in the image to make a right turn at
+c1e914be895642247e13a37d39e37807,55e44f08b5e036f3807756a162e3f66b,However, I cannot determine for certain whether the car is facing the appropriate direction or
+4ac6247c4f32ace944a930e2c9b02b78,55e44f08b5e036f3807756a162e3f66b,Yes, acceleration is necessary in this situation as the man is near the edge of
+4ac6247c4f32ace944a930e2c9b02b78,55e44f08b5e036f3807756a162e3f66b,No, acceleration is not necessary in this situation. The image shows a man r
+bf310d0e1ab82f67e932eb91ce710e65,55e44f08b5e036f3807756a162e3f66b,I am changing lane because I am encountering traffic congestion, and
+bf310d0e1ab82f67e932eb91ce710e65,55e44f08b5e036f3807756a162e3f66b,During a road trip, one might be changing lanes for a variety of reasons
+0cdc01fff914cdf537dd15c519079c1a,55e44f08b5e036f3807756a162e3f66b,In the image, there is a cyclist riding down the street. I
+0cdc01fff914cdf537dd15c519079c1a,55e44f08b5e036f3807756a162e3f66b,As part of my daily activities, I cycle around the city every day. One
+f251873af27c4ffd11ba636e3da5ea91,55e44f08b5e036f3807756a162e3f66b,Sitting in a parked cars, both action and justification are related to
+f251873af27c4ffd11ba636e3da5ea91,55e44f08b5e036f3807756a162e3f66b,Biking, getting exercise.
+a6147b622c3069a2d19e3403f15cb635,45b587bf54ee9db25085eb483cac242e,In this scenario, you should be prepared to encounter both pedestrians and
+a6147b622c3069a2d19e3403f15cb635,45b587bf54ee9db25085eb483cac242e,In this particular scenario, the presence of pedestrians crossing the street at
+78a29a7f0a2eb83b175d80dd126d8189,45b587bf54ee9db25085eb483cac242e,The color of the traffic lights at the intersection in the image is red.
+78a29a7f0a2eb83b175d80dd126d8189,45b587bf54ee9db25085eb483cac242e,The traffic lights at the intersection are red.
+384b8bb84bde90ecff036c4103ea0d45,45b587bf54ee9db25085eb483cac242e,No, there are no bicycles on the road.
+384b8bb84bde90ecff036c4103ea0d45,45b587bf54ee9db25085eb483cac242e,No, there are no bicycles on the road. The road is occupied
+4908f70f6ee523137b239826ff77c17a,45b587bf54ee9db25085eb483cac242e,Yes, a vehicle is on their way right up to the white line where you
+4908f70f6ee523137b239826ff77c17a,45b587bf54ee9db25085eb483cac242e,No, there are no vehicles ahead of me in my lane. The only
+ce5d052b9d74b9c0a7582c63172c20ea,45b587bf54ee9db25085eb483cac242e,A man is crossing the street using a cane, and a woman is walking
+ce5d052b9d74b9c0a7582c63172c20ea,45b587bf54ee9db25085eb483cac242e,Action: Riding scooters across the crosswalk. Justification
+b68adb6171e7f8c0cb818b319bd5edcf,f91e7de2b6dbd5cae22565b37cead317,In this situation, I am stopping because of the traffic light signal. In the
+b68adb6171e7f8c0cb818b319bd5edcf,f91e7de2b6dbd5cae22565b37cead317,In this situation, the car is stopping to obey a traffic light. In the
+727a574704a82ac4b90e7a64cad2172f,f91e7de2b6dbd5cae22565b37cead317,Yes, there are traffic lights on the street. They are showing yellow lights,
+727a574704a82ac4b90e7a64cad2172f,f91e7de2b6dbd5cae22565b37cead317,Yes, there are traffic lights visible in the image. They are displaying green lights
+2a58e163bcfdbc7e388c07bd3e8c4223,f91e7de2b6dbd5cae22565b37cead317,Yes, you are legally allowed to make a right turn at this busy city
+2a58e163bcfdbc7e388c07bd3e8c4223,f91e7de2b6dbd5cae22565b37cead317,Yes, if a traffic light indicates it is allowed for the vehicle in the right
+4c3134425c5def0082294f6b1fff0812,f91e7de2b6dbd5cae22565b37cead317,Waiting at a traffic light, just following drivers' right of way.
+4c3134425c5def0082294f6b1fff0812,f91e7de2b6dbd5cae22565b37cead317,Action: Driving or turning up the 400 on a w
+9a582c7388980d2f7ecf2f56f83a9a85,f91e7de2b6dbd5cae22565b37cead317,In this scenario, where a city street is filled with vehicles and a mixture of
+9a582c7388980d2f7ecf2f56f83a9a85,f91e7de2b6dbd5cae22565b37cead317,In the image, you should pay attention to the busy street scene filled with various
+5b772c60606538fc43fa3bc71a92031c,8f3964238bb3d551e806cb73f2182835,Yes, there are traffic signal lights present on the corner in the image. They
+5b772c60606538fc43fa3bc71a92031c,8f3964238bb3d551e806cb73f2182835,Yes, there are traffic signals present on the city street. In the image,
+cf261542083d4f270e2438e85838e947,8f3964238bb3d551e806cb73f2182835,No, there are no scooterists visible in the image. The scene
+cf261542083d4f270e2438e85838e947,8f3964238bb3d551e806cb73f2182835,No, there are no scooterists in this image. The scene shows
+f3053c1b323bb29af1af33e8b9ed758d,8f3964238bb3d551e806cb73f2182835,At this intersection with several cars driving past or waiting, drivers should pay attention to
+f3053c1b323bb29af1af33e8b9ed758d,8f3964238bb3d551e806cb73f2182835,Yes, you should yield to any vehicle that is already within the intersection while going
+0d5fbb5197af15189455c9da13703355,8f3964238bb3d551e806cb73f2182835,Although the car stands still in front of the stop signs on this city street,
+0d5fbb5197af15189455c9da13703355,8f3964238bb3d551e806cb73f2182835,Yes, there is an obstruction preventing the car from advancing. Vari
+6a2ba143b62ea899de7c14bdc0a4a008,8f3964238bb3d551e806cb73f2182835,The cars are turning off the road and crossing an intersection, because it is their
+6a2ba143b62ea899de7c14bdc0a4a008,8f3964238bb3d551e806cb73f2182835,Driving vehicles in bear traffic, following a stop light, according to traffic
+7896bb8c4686530f2c4187d98b469dfc,9a4487ea65f5fc2dd9afccc5bfa5d329,Bicycles are in front of me.
+7896bb8c4686530f2c4187d98b469dfc,9a4487ea65f5fc2dd9afccc5bfa5d329,There are many bicycles in the image, traveling in front of a
+89918d7da49fc8db86d1ed0d9a50dc00,9a4487ea65f5fc2dd9afccc5bfa5d329,Based on the image, I am unable to determine if it is legal or advis
+89918d7da49fc8db86d1ed0d9a50dc00,9a4487ea65f5fc2dd9afccc5bfa5d329,No, you cannot drive in the lane to your left. The lane
+bba7c9c63c861db20763e8657e1813bf,9a4487ea65f5fc2dd9afccc5bfa5d329,I can observe probably 6 cyclists on the street, some of them particip
+bba7c9c63c861db20763e8657e1813bf,9a4487ea65f5fc2dd9afccc5bfa5d329,While I can see a group of people on bicycles, without knowing the
+7533fa42979712a649effab20e444217,9a4487ea65f5fc2dd9afccc5bfa5d329,Walking, avoiding bike lanes, shopping in the open market
+7533fa42979712a649effab20e444217,9a4487ea65f5fc2dd9afccc5bfa5d329,Woman steps into the street to cross, protecting herself from traffic.
+12cbc435b94b93f32039174dd1e9289c,9a4487ea65f5fc2dd9afccc5bfa5d329,Yes, there is a pedestrian crossing the road at the traffic signal.
+12cbc435b94b93f32039174dd1e9289c,9a4487ea65f5fc2dd9afccc5bfa5d329,Yes, there is a woman standing on the road in this city scene.
+2a79edf9e2d8bbb29c155213f4986b76,98e18cab2229850a8ad6a4bec157a454,Yes, the city street has a designated cycle lane. It is on the
+2a79edf9e2d8bbb29c155213f4986b76,98e18cab2229850a8ad6a4bec157a454,Yes, there is a designated cycle lane on this road. It is located
+c45355cdef40dd8f2fcc39289e9f5811,98e18cab2229850a8ad6a4bec157a454,Yes, there are parked cars on the side of the road in the image
+c45355cdef40dd8f2fcc39289e9f5811,98e18cab2229850a8ad6a4bec157a454,Yes, there are some cars parked on the side of the road in the
+8cd08f045c1057cbf15b0a506b4c79d0,98e18cab2229850a8ad6a4bec157a454,No, it is not safe to increase your speed in the current driving conditions.
+8cd08f045c1057cbf15b0a506b4c79d0,98e18cab2229850a8ad6a4bec157a454,Yes, it is safe for you to increase your speed in the current driving conditions
+63192f9d4ae12019bacf2d604baa575d,98e18cab2229850a8ad6a4bec157a454,Riding a bicycle, safety.
+63192f9d4ae12019bacf2d604baa575d,98e18cab2229850a8ad6a4bec157a454,Action: Biking Justification: Biking is a sustain
+f3bff88e92269abd94944b52902ca1a0,98e18cab2229850a8ad6a4bec157a454,Yes, in the lane where the man is riding his bike,
+f3bff88e92269abd94944b52902ca1a0,98e18cab2229850a8ad6a4bec157a454,Yes, there is traffic in the lane. Specific details about the traffic are
+a2c79df618c746c6817ab88f7849d337,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, there is a group of people crossing the street at the intersection, likely
+a2c79df618c746c6817ab88f7849d337,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, there are people walking across the street at the intersection.
+d76b908d588dfda91643627a43ce612c,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, it is essential to yield to the trucks on the street in
+d76b908d588dfda91643627a43ce612c,8b1eaed55ac89d3fd98ca9a00d3b29a3,In this situation, there is a police car among the vehicles. It is important
+fb4ebd361ae3e0d31640dea28a5f020b,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, there is a traffic light visible in the image. The traffic light is
+fb4ebd361ae3e0d31640dea28a5f020b,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, I can spot a traffic light. At the moment, it is showing
+584cc9baeabb35ebd2dd6e70587520f3,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, it is safe for me to move forward, as the image depict
+584cc9baeabb35ebd2dd6e70587520f3,8b1eaed55ac89d3fd98ca9a00d3b29a3,Yes, it is safe for me to move forward. In the image, there
+cea56e07fa3cee3af5092a5beb284440,8b1eaed55ac89d3fd98ca9a00d3b29a3,The current action is waiting at a crosswalk. The justification for waiting at
+cea56e07fa3cee3af5092a5beb284440,8b1eaed55ac89d3fd98ca9a00d3b29a3,Crossing the street, people. Justification: The sign says don'
+9510501944e3e66a68a20c17ccb7515e,ddabf1e10d3aa1c5eeee62063fccf692,There are four parked cars on the right side of the image.
+9510501944e3e66a68a20c17ccb7515e,ddabf1e10d3aa1c5eeee62063fccf692,There are many parked cars on the right side of the image, indicating that
+53324fa409242a955d8d6aa808a02c51,ddabf1e10d3aa1c5eeee62063fccf692,As the bus is approaching the bicycle, I will most likely gently
+53324fa409242a955d8d6aa808a02c51,ddabf1e10d3aa1c5eeee62063fccf692,Next, I will initiate an emergency brake assist (EBAT)
+725f7f9f5e3d404cda56dca486a464fb,ddabf1e10d3aa1c5eeee62063fccf692,It is not advisable to overtake the large bus that is turning at the
+725f7f9f5e3d404cda56dca486a464fb,ddabf1e10d3aa1c5eeee62063fccf692,Overtaking the red double decker bus is a potentially dangerous move as it
+a246fe8c8025484318f3f8c9b05bba32,ddabf1e10d3aa1c5eeee62063fccf692,Man on bicycle "staging" to match the red bus turning the
+a246fe8c8025484318f3f8c9b05bba32,ddabf1e10d3aa1c5eeee62063fccf692,Cycling, to reach my desired stop which is farther away than seen in the
+a73d886fcdb50a5925dd00116369bb9a,ddabf1e10d3aa1c5eeee62063fccf692,There are three cars parked on the left side of the street.
+a73d886fcdb50a5925dd00116369bb9a,ddabf1e10d3aa1c5eeee62063fccf692,I can spot two parked cars on the left side of the image, sitting
+ca0ca03abf47164bed3b23a283ab011f,69de30a10f550407d84c778f9ae9570c,Yes, there is a bike lane in this busy city street.
+ca0ca03abf47164bed3b23a283ab011f,69de30a10f550407d84c778f9ae9570c,Yes, based on the image, there is a designated lane for cyclists
+8d3982682d773428ca71a414e730336c,69de30a10f550407d84c778f9ae9570c,Driving down street, driving safely.
+8d3982682d773428ca71a414e730336c,69de30a10f550407d84c778f9ae9570c,The bus is passing through an intersection, and the justification for this action is
+572fb3b36846630180c258c2806824ed,69de30a10f550407d84c778f9ae9570c,No, you are not permitted to make a right turn at this specific location.
+572fb3b36846630180c258c2806824ed,69de30a10f550407d84c778f9ae9570c,No, as the car in the image is turning left from a right turn only
+2986cd44aae556ea1f686cdb5cc40ba4,69de30a10f550407d84c778f9ae9570c,Yes, there is a traffic light in sight. It is showing a green light
+2986cd44aae556ea1f686cdb5cc40ba4,69de30a10f550407d84c778f9ae9570c,Yes, there is a traffic light in the image, and it is showing a
+0a551fcd11e0ea60b295b39a35b45581,69de30a10f550407d84c778f9ae9570c,Yes, the road is clear for me to continue or accelerate.
+0a551fcd11e0ea60b295b39a35b45581,69de30a10f550407d84c778f9ae9570c,No, the road ahead appears to be clear for the black bus to make a
+3fae31163415c57fb6e517595a957cfc,a51fb9e029890062f7c86d581cbd96a2,Yes, the cyclist is riding towards a zebra crossing with multiple
+3fae31163415c57fb6e517595a957cfc,a51fb9e029890062f7c86d581cbd96a2,It's hard to determine from the image if there is a zebra
+913270906dfdc500d425673fe1522571,a51fb9e029890062f7c86d581cbd96a2,Yes, there are traffic lights present in the scene. They are on a red
+913270906dfdc500d425673fe1522571,a51fb9e029890062f7c86d581cbd96a2,Yes, there are traffic lights present in this image. The color of the traffic
+56dbeffcb94b648ea66836a200bbbf5a,a51fb9e029890062f7c86d581cbd96a2,Yes, there are parked cars on the left side of the road.
+56dbeffcb94b648ea66836a200bbbf5a,a51fb9e029890062f7c86d581cbd96a2,Yes, there is a line of parked cars on the left side of the
+1d3758cf9d8113d81ad36a08627a62de,a51fb9e029890062f7c86d581cbd96a2,Riding a bicycle down the street, justification: To get around
+1d3758cf9d8113d81ad36a08627a62de,a51fb9e029890062f7c86d581cbd96a2,Stopped, save for turning left beside other vehicle.
+8c86ebf0532a0141c96f7e8fbdc5bd1d,a51fb9e029890062f7c86d581cbd96a2,No, there are no parked cars on the right side of the road.
+8c86ebf0532a0141c96f7e8fbdc5bd1d,a51fb9e029890062f7c86d581cbd96a2,Yes, there are parked cars on the side of the road.
+1a92080cdf89ee77fa90a8e60eb66eb4,6cc9407bedea610b5abe5cc012d5fdff,As a pedestrian standing on the street curb of this urban neighborhood,
+1a92080cdf89ee77fa90a8e60eb66eb4,6cc9407bedea610b5abe5cc012d5fdff,At this intersection, it is essential to pay close attention to the traffic signs and
+634771581e7cb1ef58b3260ffefeafe7,6cc9407bedea610b5abe5cc012d5fdff,No, there are no pedestrians near the road in the picture.
+634771581e7cb1ef58b3260ffefeafe7,6cc9407bedea610b5abe5cc012d5fdff,Yes, a woman is about to cross the street, likely in the crosswalk
+a0ca15ad5d7340d7295a00f9ec779383,6cc9407bedea610b5abe5cc012d5fdff,Yes, it is possible for me to accelerate in this situation. This is
+a0ca15ad5d7340d7295a00f9ec779383,6cc9407bedea610b5abe5cc012d5fdff,Yes, in this situation it is possible to accelerate, because the street is
+2f05075cb2bc15e9ce24f33cd283e118,6cc9407bedea610b5abe5cc012d5fdff,Yes, there is a car stopped at the zebra crossing in this ra
+2f05075cb2bc15e9ce24f33cd283e118,6cc9407bedea610b5abe5cc012d5fdff,No, at this moment, there is no vehicle stopped at the zebra
+7c15ceaf17dc1544aa74cadd7278f805,6cc9407bedea610b5abe5cc012d5fdff,City Cars are making a left turn at a green light. Justification
+7c15ceaf17dc1544aa74cadd7278f805,6cc9407bedea610b5abe5cc012d5fdff,Car traveling across crosswalk, to nearest gas station
+39160422348fc9229c099a9387a3ae72,f294651150b7727859aaf5d0e3ab9f2e,There are two cyclists in the lane.
+39160422348fc9229c099a9387a3ae72,f294651150b7727859aaf5d0e3ab9f2e,There are two cyclists in your lane.
+407a4f3181b4fc9de66c6d562585cf52,f294651150b7727859aaf5d0e3ab9f2e,Riding a motorcycle in a city street with multiple cars and traffic lights.
+407a4f3181b4fc9de66c6d562585cf52,f294651150b7727859aaf5d0e3ab9f2e,Action: Stopped on red. Justification: Stopped due to a
+e30803864b227b90c3eb8f8206b284c9,f294651150b7727859aaf5d0e3ab9f2e,A car is in front of you.
+e30803864b227b90c3eb8f8206b284c9,f294651150b7727859aaf5d0e3ab9f2e,There are several vehicles in front of me in the image, including a black picture
+256aa7e4df5c7ba590d75d2551e40c50,f294651150b7727859aaf5d0e3ab9f2e,Yes, there is a traffic light present in the image. The light is colored
+256aa7e4df5c7ba590d75d2551e40c50,f294651150b7727859aaf5d0e3ab9f2e,Yes, there are traffic lights present at a busy intersection, and the lights are
+eba6cfb98741ef9272117aae149cd630,f294651150b7727859aaf5d0e3ab9f2e,Based on the image, there are a few motorcyclists visible on the
+eba6cfb98741ef9272117aae149cd630,f294651150b7727859aaf5d0e3ab9f2e,I can see two motorcyclists in the image.
+27b12300b11789fe239e613d952ffffc,fee75bebc1fae19b92ee5fd77e6eecb7,The van is turning left onto the street. Its justification is to navigate through
+27b12300b11789fe239e613d952ffffc,fee75bebc1fae19b92ee5fd77e6eecb7,Van driving down street, yellow signal , crosswalk.
+0697de3bf28c992032793ece0210a09e,fee75bebc1fae19b92ee5fd77e6eecb7,While the image does not necessarily capture the exact moment someone is about to enter the
+0697de3bf28c992032793ece0210a09e,fee75bebc1fae19b92ee5fd77e6eecb7,It's difficult to be absolutely certain, but based on the visual information,
+f118b0e1e3a60e232ef7cb27fc7dbe77,fee75bebc1fae19b92ee5fd77e6eecb7,In this image, you should focus your attention on various elements to get a compreh
+f118b0e1e3a60e232ef7cb27fc7dbe77,fee75bebc1fae19b92ee5fd77e6eecb7,In this scene, I suggest focusing your attention on the white van driving down
+927db61671b1c3299eb7326a66ff2ffb,fee75bebc1fae19b92ee5fd77e6eecb7,Yes, there are traffic signals on the corner of the street. They are green
+927db61671b1c3299eb7326a66ff2ffb,fee75bebc1fae19b92ee5fd77e6eecb7,Yes, there is a traffic light visible in the image. Its color is green
+366c7228e270ca50f4f6f3e2beeb845e,fee75bebc1fae19b92ee5fd77e6eecb7,Yes, there is a construction zone on a crossroad. A van is making
+366c7228e270ca50f4f6f3e2beeb845e,fee75bebc1fae19b92ee5fd77e6eecb7,Yes, there is a work zone in the image. A car is stopped behind
+19afb4fbc9846e4e5c87b1206968e349,788192e7d185b1f0071c0a096f17ff19,The bus is driving down the street heading right.
+19afb4fbc9846e4e5c87b1206968e349,788192e7d185b1f0071c0a096f17ff19,The bus is driving down the road.
+54ecc7607a621c0160d8818700515cb4,788192e7d185b1f0071c0a096f17ff19,Based on the available information, I cannot confidently determine the exact number of motor
+54ecc7607a621c0160d8818700515cb4,788192e7d185b1f0071c0a096f17ff19,There are several people on motorcycles in the image.
+dc24b2bc54578bd6fe99bd108ef3bd07,788192e7d185b1f0071c0a096f17ff19,There is a small group of people crossing the road.
+dc24b2bc54578bd6fe99bd108ef3bd07,788192e7d185b1f0071c0a096f17ff19,There are several people crossing the road, indicating a group or a crowd. However
+b016cd9613ef6b86d34fc4f4c513f076,788192e7d185b1f0071c0a096f17ff19,I can see one truck in the image.
+b016cd9613ef6b86d34fc4f4c513f076,788192e7d185b1f0071c0a096f17ff19,As an AI visual assistant, I cannot see any trucks in the
+ae792d86dcb9ce2b204ae8b45aaf59a8,788192e7d185b1f0071c0a096f17ff19,Running past double decker buses, just to enjoy running fast on a street
+ae792d86dcb9ce2b204ae8b45aaf59a8,788192e7d185b1f0071c0a096f17ff19,Action: Cross the street. Justification: The pedestrian is at an
+c11246d24fb56e38317207f69c3ab29e,59be3cde639a4f1f56fd581647861cc7,No, there is no traffic in the lane I am both riding in
+c11246d24fb56e38317207f69c3ab29e,59be3cde639a4f1f56fd581647861cc7,Yes, there is traffic in the lane. In the scene, there are
+bf94e8fd2f2c4355348fa25e66b19756,59be3cde639a4f1f56fd581647861cc7,Pedestrians waiting to cross street, to ensure everyone can cross safely,
+bf94e8fd2f2c4355348fa25e66b19756,59be3cde639a4f1f56fd581647861cc7,A man riding a bike, action, justification is to follow traffic
+2aa1b2b2f6401389be74a2f1350c490d,59be3cde639a4f1f56fd581647861cc7,As the image is black and white, it's difficult to accurately judge
+2aa1b2b2f6401389be74a2f1350c490d,59be3cde639a4f1f56fd581647861cc7,Based on the image, it does not appear safe to overtake the cyclist
+9c491275d20187ff0b059bed6905988c,59be3cde639a4f1f56fd581647861cc7,No, there is no oncoming traffic in the image. The street appears to
+9c491275d20187ff0b059bed6905988c,59be3cde639a4f1f56fd581647861cc7,The image presents a street with people on the sidewalk and cars driving in both
+cc50291eed4caae307bebdf102c44afc,59be3cde639a4f1f56fd581647861cc7,There are at least two cyclists, as the image also features a group of
+cc50291eed4caae307bebdf102c44afc,59be3cde639a4f1f56fd581647861cc7,There are two cyclists on the street in the image.
+975864cf21b9aa77c4653e4828215289,b5e17d77ec428f982132bf4a2badac0e,Based on the image, I can see that the road is not clear, there
+975864cf21b9aa77c4653e4828215289,b5e17d77ec428f982132bf4a2badac0e,Yes, you are positioned correctly to make a left turn at this busy intersection
+8f141fcd541653d8629e8217d7adabf7,b5e17d77ec428f982132bf4a2badac0e,Yes, you are positioned correctly to make a right turn at this intersection.
+8f141fcd541653d8629e8217d7adabf7,b5e17d77ec428f982132bf4a2badac0e,From the perspective of the right-side passenger, who is partially visible from the
+9df3aa5f2b2107066a76573293dd1ae5,b5e17d77ec428f982132bf4a2badac0e,With the right turn signal on, it can be inferred that the driver plans
+9df3aa5f2b2107066a76573293dd1ae5,b5e17d77ec428f982132bf4a2badac0e,I'm changing lane for safety reasons. I'm now entering the
+0f3c9f993c64ea0780dacf473b0afe1f,b5e17d77ec428f982132bf4a2badac0e,Yes, there are traffic lights in the vicinity. They are displaying red and
+0f3c9f993c64ea0780dacf473b0afe1f,b5e17d77ec428f982132bf4a2badac0e,Yes, there are traffic lights in the vicinity. One of the traffic lights
+e1c305f595001df6897858a27744d0d7,b5e17d77ec428f982132bf4a2badac0e,Turning right, to continue on a straight road intersection.
+e1c305f595001df6897858a27744d0d7,b5e17d77ec428f982132bf4a2badac0e,Action: Turning onto Saxby Street-Justification: Navigating to
+6474894fd410b339a0cf6e5c9e3e7ecd,63ffb065cf9859665335ab371b593f41,At this moment, you should focus your attention on the "do not walk"
+6474894fd410b339a0cf6e5c9e3e7ecd,63ffb065cf9859665335ab371b593f41,As the image shows several cars and people in the street, people can focus on
+b49d53e5eb4f9c10ec449cb976f0f7be,63ffb065cf9859665335ab371b593f41,Based on the image, I cannot confidently determine whether you should come to a
+b49d53e5eb4f9c10ec449cb976f0f7be,63ffb065cf9859665335ab371b593f41,When approaching this urban intersection, cyclists should come to a full stop. There
+7c3c2457cc5d907903fd6dff0d46e7c3,63ffb065cf9859665335ab371b593f41,Man is crossing the street. The justification for his action is that he is
+7c3c2457cc5d907903fd6dff0d46e7c3,63ffb065cf9859665335ab371b593f41,A man is walking down the rain-soaked city street, justification:
+036f4fddcb253239788dbe6081892c1c,63ffb065cf9859665335ab371b593f41,Yes, the lane currently has traffic. The image shows a person walking across
+036f4fddcb253239788dbe6081892c1c,63ffb065cf9859665335ab371b593f41,The lane in the image is currently clear, with no visible vehicles, and
+29b8ed6f8b37ac1d5c64ebfac0c9ae8b,63ffb065cf9859665335ab371b593f41,Yes, there are traffic lights present in the image. Traffic light displays a
+29b8ed6f8b37ac1d5c64ebfac0c9ae8b,63ffb065cf9859665335ab371b593f41,Yes, there are traffic lights present. However, the image does not show whether
+238d5ea575e17822705dad8c5b59021c,88005f114b4afb9e1c9e30c022a1ff6d,VAN makes right hand turn onto another street, would be able to see other
+238d5ea575e17822705dad8c5b59021c,88005f114b4afb9e1c9e30c022a1ff6d,Turn, none
+e112200f413873290c3270226fb0e3ec,88005f114b4afb9e1c9e30c022a1ff6d,Yes, at the intersection, there is a green arrow for the direction of the
+e112200f413873290c3270226fb0e3ec,88005f114b4afb9e1c9e30c022a1ff6d,Yes, at this intersection, you have the right of way to continue moving forward
+9061ed413e6316d30006a164bf5b3033,88005f114b4afb9e1c9e30c022a1ff6d,At the given intersection, buses have the right to move through the intersection first
+9061ed413e6316d30006a164bf5b3033,88005f114b4afb9e1c9e30c022a1ff6d,Yes, you have the right-of-way to go straight at this intersection
+d7a75b368584cc21607aa8b8b4542b79,88005f114b4afb9e1c9e30c022a1ff6d,Yes, the pedestrian is crossing the street ahead of a white van or
+d7a75b368584cc21607aa8b8b4542b79,88005f114b4afb9e1c9e30c022a1ff6d,No, the pedestrian is not crossing your lane. The pedest
+01b047b2c93e93b77576fdc847ee6ec7,88005f114b4afb9e1c9e30c022a1ff6d,As a responding AI, I am accelerating to engage in a
+01b047b2c93e93b77576fdc847ee6ec7,88005f114b4afb9e1c9e30c022a1ff6d,I am accelerating to drive, as cars in the image are moving forward,
+3d936626b4f5b2c0b1e6b9430e8aa938,a96c0d9c0c0dae3a6b27e56e983f817d,As an AI, I do not possess the ability to drive or plan actions
+3d936626b4f5b2c0b1e6b9430e8aa938,a96c0d9c0c0dae3a6b27e56e983f817d,I am planning to take the car through the intersection, as the traffic light is
+dedc20d5163050b406429bde89987631,a96c0d9c0c0dae3a6b27e56e983f817d,No, there are no cyclists in this city street scene. This residential
+dedc20d5163050b406429bde89987631,a96c0d9c0c0dae3a6b27e56e983f817d,No, there are no cyclists in this image. The scene only shows several
+8b421650148734837b8ae3d275695b5c,a96c0d9c0c0dae3a6b27e56e983f817d,No, there are no pedestrians crossing the road in the image.
+8b421650148734837b8ae3d275695b5c,a96c0d9c0c0dae3a6b27e56e983f817d,No, there are no pedestrians crossing ahead. The scene takes place
+53658dbbb0569f62973eede3b02c21b0,a96c0d9c0c0dae3a6b27e56e983f817d,Yes, I am following the blue car at this intersection.
+53658dbbb0569f62973eede3b02c21b0,a96c0d9c0c0dae3a6b27e56e983f817d,Yes, I am following a blue SUV at the intersection.
+316f75ad14520f6fdd7e5a1962c563e7,a96c0d9c0c0dae3a6b27e56e983f817d,Park, other vehicles parked nearby.
+316f75ad14520f6fdd7e5a1962c563e7,a96c0d9c0c0dae3a6b27e56e983f817d,Driving straight, to navigate the intersection according to traffic control signals.
+c6d81aed3d50ebbacba5557a1db8fc2e,5c95f9353d8c4c8a3b111fc91c8b9c2b,Yes, there is a traffic light on this road. At the moment, it
+c6d81aed3d50ebbacba5557a1db8fc2e,5c95f9353d8c4c8a3b111fc91c8b9c2b,Yes, there is a traffic light on this road, and it is displaying a
+f501eedae7fa6688868f10ee295fada7,5c95f9353d8c4c8a3b111fc91c8b9c2b,Guy, on his bike, preparing to cross the street, lines on
+f501eedae7fa6688868f10ee295fada7,5c95f9353d8c4c8a3b111fc91c8b9c2b,The rider is at a stop light at an intersection, probably waiting for the
+637556824882ea9b2fb294fd3d8abb68,5c95f9353d8c4c8a3b111fc91c8b9c2b,Yes, there is a person waiting to cross the street.
+637556824882ea9b2fb294fd3d8abb68,5c95f9353d8c4c8a3b111fc91c8b9c2b,Yes, there are pedestrians waiting to cross the road as they approach
+7e1141768958858d1a6e8631fed4c9c7,5c95f9353d8c4c8a3b111fc91c8b9c2b,You should follow any vehicle that obstructs your view, such as a tr
+7e1141768958858d1a6e8631fed4c9c7,5c95f9353d8c4c8a3b111fc91c8b9c2b,Since the motorcycle is following a bicycle in the image, you should
+d92576c695349577f7149df7a6210bc2,5c95f9353d8c4c8a3b111fc91c8b9c2b,In this instance, you can start because the traffic light in the image is green
+d92576c695349577f7149df7a6210bc2,5c95f9353d8c4c8a3b111fc91c8b9c2b,In this instance, you can start simply because there are no obstacles or vehicles
+bd0198568c49a38f844fb0eb8cc6966e,c6d32ceb5dc0f07b80646e9d629126a2,No, there are no obstacles in the image that prevent you from continuing
+bd0198568c49a38f844fb0eb8cc6966e,c6d32ceb5dc0f07b80646e9d629126a2,Yes, there is a left turn lane at the intersection, which prevents drivers
+04738557fefe2ff778dd87389fc271d5,c6d32ceb5dc0f07b80646e9d629126a2,Disembarking from the vehicle, driving straight across the intersection of the main
+04738557fefe2ff778dd87389fc271d5,c6d32ceb5dc0f07b80646e9d629126a2,A car is waiting to move on a crosswalk, justifying its action because
+2dde03094222767805953e7ed4ce0233,c6d32ceb5dc0f07b80646e9d629126a2,Yes, you should maintain your speed at this moment, which is an empty,
+2dde03094222767805953e7ed4ce0233,c6d32ceb5dc0f07b80646e9d629126a2,Yes, it is advisable to maintain your speed at this moment. The photo
+8ba77a2a3b6d80b8ae103d080c600eaa,c6d32ceb5dc0f07b80646e9d629126a2,As I am viewing this image with a fisheye lens, the
+8ba77a2a3b6d80b8ae103d080c600eaa,c6d32ceb5dc0f07b80646e9d629126a2,In this image, as one drives past the old buildings and looking further, one
+45c99db931b643a8a4b2b4eebc6dd989,c6d32ceb5dc0f07b80646e9d629126a2,There are two pedestrians crossing the road in the image.
+45c99db931b643a8a4b2b4eebc6dd989,c6d32ceb5dc0f07b80646e9d629126a2,There is no pedestrian or person visible in the photo, and the road
+46c0844d700b8b68c40e20a22b2d5a95,827bde02296744ffb57736407065478d,No, acceleration is not necessary in this situation. The image depicts a
+46c0844d700b8b68c40e20a22b2d5a95,827bde02296744ffb57736407065478d,Yes, acceleration is necessary in this situation. The image depicts a man
+95731d957be2d132c4123b48b0594fed,827bde02296744ffb57736407065478d,Car driving, passing truck. Justification is that the car needs to pass
+95731d957be2d132c4123b48b0594fed,827bde02296744ffb57736407065478d,Motorcycle riding through, traffic control, road directions.
+2150b4cfd0b73bdd17c567969d61e160,827bde02296744ffb57736407065478d,Given the current traffic conditions on the road and the presence of two motorcycles
+2150b4cfd0b73bdd17c567969d61e160,827bde02296744ffb57736407065478d,Yes, the moped rider must slow down and come to a stop when
+a8fe57df7c7d75f92e0bbabbcadda138,827bde02296744ffb57736407065478d,The right car is driving through the center lane on the street. The center
+a8fe57df7c7d75f92e0bbabbcadda138,827bde02296744ffb57736407065478d,The right car is driving in the left lane, which is designed for both
+c5ac4d2afce8ea0022449e91771a40c4,827bde02296744ffb57736407065478d,Yes, some cyclists are present in this image. They are positioned at
+c5ac4d2afce8ea0022449e91771a40c4,827bde02296744ffb57736407065478d,Yes, there is a cyclist in the image. The cyclist is position
+7891ec8a7e130ffa4d0fa474233f8dea,f376bb31c1f1f01cb9aa5c2887800ab1,Yes, you need to slow down because there are several cars and a bus on
+7891ec8a7e130ffa4d0fa474233f8dea,f376bb31c1f1f01cb9aa5c2887800ab1,Yes, I need to slow down as there is heavy traffic on the road,
+bf0783395499abf85617c3ee3571e8e7,f376bb31c1f1f01cb9aa5c2887800ab1,Although it is not possible to determine the exact number of parked cars in the
+bf0783395499abf85617c3ee3571e8e7,f376bb31c1f1f01cb9aa5c2887800ab1,In the image, there are three parked cars on the side of the road
+0641f041cb81f100b1df6b5397b54a35,f376bb31c1f1f01cb9aa5c2887800ab1,Yes, I am about to merge straight ahead on the city street.
+0641f041cb81f100b1df6b5397b54a35,f376bb31c1f1f01cb9aa5c2887800ab1,Yes, at the intersection where multiple cars and trucks are present, I
+ee7f818e647f5d35fca82359eb9e34f9,f376bb31c1f1f01cb9aa5c2887800ab1,Traffic light, providing instructions. Justification: Traffic lights are essential in
+ee7f818e647f5d35fca82359eb9e34f9,f376bb31c1f1f01cb9aa5c2887800ab1,The traffic light is displaying an orange and orange.
+96185b5129d7d9f124e0728aea963273,f376bb31c1f1f01cb9aa5c2887800ab1,I am planning to take a left turn at the intersection, as suggested by the
+96185b5129d7d9f124e0728aea963273,f376bb31c1f1f01cb9aa5c2887800ab1,I am planning to turn right at the traffic light. This decision is based on
+ce601417a900b9c74b75c31900a9f9ab,9a000079e1504260d6dd29af9dc16e0d,No, the car is making a left turn.
+ce601417a900b9c74b75c31900a9f9ab,9a000079e1504260d6dd29af9dc16e0d,Yes, I can turn right.
+776536a5e054161234ad5e4acfebfe85,9a000079e1504260d6dd29af9dc16e0d,A couple of pedestrians are crossing the road.
+776536a5e054161234ad5e4acfebfe85,9a000079e1504260d6dd29af9dc16e0d,Multiple people are crossing the road behind the vehicles.
+2adafffe72e30b3136ca49dbab7f3e39,9a000079e1504260d6dd29af9dc16e0d,Pulling over to picture a car and get a woman in the background -
+2adafffe72e30b3136ca49dbab7f3e39,9a000079e1504260d6dd29af9dc16e0d,A car is driving on the street. The justification is that drivers are responsible
+e9931e8cd34d466b5e26778d9abc78fd,9a000079e1504260d6dd29af9dc16e0d,There is a white car traveling down the road, but there is no immediate
+e9931e8cd34d466b5e26778d9abc78fd,9a000079e1504260d6dd29af9dc16e0d,No.
+b5ecda4d95fe4f359ce8103b60d6779f,9a000079e1504260d6dd29af9dc16e0d,Yes, the car should stop due to presence of pedestrians in the
+b5ecda4d95fe4f359ce8103b60d6779f,9a000079e1504260d6dd29af9dc16e0d,Given the image, you should not stop abruptly, especially for the man
+07bf78706413664d71743c8b9d4ca404,852232e46c71d346dcb9f223647c0970,A black mini Lexus is the car I am following in the image.
+07bf78706413664d71743c8b9d4ca404,852232e46c71d346dcb9f223647c0970,A black car driving in front of the pedestrians is currently being followed
+49c34b09ef44820a8234bc36f0196f5e,852232e46c71d346dcb9f223647c0970,Yes, you can spot a traffic light. It is showing green, which in
+49c34b09ef44820a8234bc36f0196f5e,852232e46c71d346dcb9f223647c0970,Yes, a traffic light can be seen in the image, and it is showing
+af303069946ee56fc8488617d94021d2,852232e46c71d346dcb9f223647c0970,Yes, you need to come to a stop while crossing the street. The factors
+af303069946ee56fc8488617d94021d2,852232e46c71d346dcb9f223647c0970,Given the situation in the image, the need to stop is not required, as
+824c826a271ee4c42f9892831347675d,852232e46c71d346dcb9f223647c0970,There are a couple of cars parked on the street.
+824c826a271ee4c42f9892831347675d,852232e46c71d346dcb9f223647c0970,There are several cars parked on the street.
+0adc3c3547a46f7b95446d1557f053bc,852232e46c71d346dcb9f223647c0970,Traffic light is green, pedestrians may proceed to cross street.
+0adc3c3547a46f7b95446d1557f053bc,852232e46c71d346dcb9f223647c0970,Person crossing the street at a crosswalk, justification is that they are following
+7245ae50057da0b86221c77dcf8d5cbf,0f7cf6230ae33421d7d3e30dad38d53e,There are two cyclists in the image.
+7245ae50057da0b86221c77dcf8d5cbf,0f7cf6230ae33421d7d3e30dad38d53e,There are three cyclists in the image.
+d1b2267b89b1c7b0ff1aa9fa76cb5599,0f7cf6230ae33421d7d3e30dad38d53e,Moving, justification is to contribute to smooth traffic flow and avoid potential ha
+d1b2267b89b1c7b0ff1aa9fa76cb5599,0f7cf6230ae33421d7d3e30dad38d53e,Driver is traveling and entering the intersection. Justification: There is nobody on
+3a6a409dc72a414de0faefb2102d5aff,0f7cf6230ae33421d7d3e30dad38d53e,No, there are no vehicles coming from the right at the intersection. The intersection
+3a6a409dc72a414de0faefb2102d5aff,0f7cf6230ae33421d7d3e30dad38d53e,Yes, there is a vehicle coming from the right at the intersection in the image
+cab24eb6cae8d40eb27d800b4db85e49,0f7cf6230ae33421d7d3e30dad38d53e,Yes, there is a car coming from the left direction at the intersection.
+cab24eb6cae8d40eb27d800b4db85e49,0f7cf6230ae33421d7d3e30dad38d53e,Yes, a vehicle is coming down the street on the left, approaching the intersection
+3a7ed41d2958a97b7e863f0b450fb4ea,0f7cf6230ae33421d7d3e30dad38d53e,Yes, there are two pedestrians crossing the multi-lane road.
+3a7ed41d2958a97b7e863f0b450fb4ea,0f7cf6230ae33421d7d3e30dad38d53e,Yes, there are several pedestrians crossing the road.
+8ea8696d812d8fce75d9f7b9daf0aed9,42b2150188e97e7c4d7d790b670f1f74,Yes, there is a traffic light present at the intersection. It is displaying a
+8ea8696d812d8fce75d9f7b9daf0aed9,42b2150188e97e7c4d7d790b670f1f74,Yes, there are traffic lights present at the intersection. The green light is currently
+df022043895362b47a3ddf1f9cacd5f7,42b2150188e97e7c4d7d790b670f1f74,Car
+df022043895362b47a3ddf1f9cacd5f7,42b2150188e97e7c4d7d790b670f1f74,Cars
+2a794ab7f01f9e1e6ca64c66374c913e,42b2150188e97e7c4d7d790b670f1f74,Bicyclist in front of moving car, justification: Legally r
+2a794ab7f01f9e1e6ca64c66374c913e,42b2150188e97e7c4d7d790b670f1f74,Bicyclist riding through traffic - The cyclist may not be stuck
+b9ac9d38a50d40a41bfdabafdd52a16b,42b2150188e97e7c4d7d790b670f1f74,Yes, the car in the image can accelerate due to contemporary urban street conditions
+b9ac9d38a50d40a41bfdabafdd52a16b,42b2150188e97e7c4d7d790b670f1f74,Yes, the car can accelerate. The image portrays a city street
+de3e3d226810b84184907befb8bb0b03,42b2150188e97e7c4d7d790b670f1f74,Yes, when pedestrians are crossing the road, even though it'
+de3e3d226810b84184907befb8bb0b03,42b2150188e97e7c4d7d790b670f1f74,In general, and according to traffic laws, pedestrians have the right
+e4785d314c75acd4c0e4fdac11d88965,aba3a80f88924404e7aeca071167920d,Yes, there are pedestrians crossing the road at the busy city intersection
+e4785d314c75acd4c0e4fdac11d88965,aba3a80f88924404e7aeca071167920d,Yes, there are pedestrians crossing the road in front of cars on
+e4c979d5547a545ced6cd2e994c09be4,aba3a80f88924404e7aeca071167920d,As a driver, one should consider reducing the speed and carefully steering while in
+e4c979d5547a545ced6cd2e994c09be4,aba3a80f88924404e7aeca071167920d,For the car driving through the intersection, the recommended speed should be around 1
+ec3afe791f20e0849b4e39dfbed4446d,aba3a80f88924404e7aeca071167920d,Yes, there are traffic lights present at this intersection. They are displaying a red
+ec3afe791f20e0849b4e39dfbed4446d,aba3a80f88924404e7aeca071167920d,Yes, there are traffic lights present at the intersection. Four traffic lights are station
+dcaf52d3b0ceb4767a532e669efef0f3,aba3a80f88924404e7aeca071167920d,Given the image of the quiet intersection with the following facts, entering the intersection should
+dcaf52d3b0ceb4767a532e669efef0f3,aba3a80f88924404e7aeca071167920d,Yes, you should enter this intersection, as the streets are clear and it is
+44755875feb3af0406b1eda77f6c61f5,aba3a80f88924404e7aeca071167920d,People walking across the street. Justification: They are crossing the street
+44755875feb3af0406b1eda77f6c61f5,aba3a80f88924404e7aeca071167920d,Walking across the street, justification: crosswalk
+d28f7c3d7f6dbb04834f0fe00cc82900,6fcc62c8231450608cddba5a8e4193cd,In this image, a city street is filled with parked cars in the center
+d28f7c3d7f6dbb04834f0fe00cc82900,6fcc62c8231450608cddba5a8e4193cd,In this congested street with a mix of cars, buses, vend
+211a7a5b9cc9322686cd65293a7159df,6fcc62c8231450608cddba5a8e4193cd,I cannot provide an exact number of parked vehicles, as I am seeing the
+211a7a5b9cc9322686cd65293a7159df,6fcc62c8231450608cddba5a8e4193cd,There are only two parked vehicles on this busy street. The one car park
+fae4d2d17f674d74a99be650d195c48d,6fcc62c8231450608cddba5a8e4193cd,Yes, the image shows motorbikes on a closed road.
+fae4d2d17f674d74a99be650d195c48d,6fcc62c8231450608cddba5a8e4193cd,Yes, there are multiple motorcyclists on the road, which adds to
+4e0334f74f376671b5e4f92e448e88c8,6fcc62c8231450608cddba5a8e4193cd,Yes, there are crowds of cars and trucks on the street in
+4e0334f74f376671b5e4f92e448e88c8,6fcc62c8231450608cddba5a8e4193cd,Yes, there are some white trucks visible in the image.
+c9308ea1b5bd9f1d92d2ede681e54ad9,6fcc62c8231450608cddba5a8e4193cd,The cyclist is riding down the street, and the justification could be
+c9308ea1b5bd9f1d92d2ede681e54ad9,6fcc62c8231450608cddba5a8e4193cd,Biker stopped to view traffic. Justification: To ensure safety by monitoring traffic
+10a7bd5799404bd96e7281383457cff2,cea4263f7822855aab6ef0c1263712bf,Yes, several people can be seen waiting at the pedestrian crossing, likely
+10a7bd5799404bd96e7281383457cff2,cea4263f7822855aab6ef0c1263712bf,Yes, there are several pedestrians waiting at a pedestrian crossing
+08215e84afb69324eff6b9b9450ed095,cea4263f7822855aab6ef0c1263712bf,Yes, there is a bus in this image. The bus is located far behind
+08215e84afb69324eff6b9b9450ed095,cea4263f7822855aab6ef0c1263712bf,No, there are no buses in the image.
+ae38c2927826425477ffbd18e118697b,cea4263f7822855aab6ef0c1263712bf,Next, I plan to take my hands off the steering wheel to enjoy the
+ae38c2927826425477ffbd18e118697b,cea4263f7822855aab6ef0c1263712bf,Since I am in a car that is currently stopped, I plan to park the
+9f6a0ced25a31985e5b7ca349be76083,cea4263f7822855aab6ef0c1263712bf,Yes, a couple of people are riding bikes in the city along the
+9f6a0ced25a31985e5b7ca349be76083,cea4263f7822855aab6ef0c1263712bf,Yes, there is a group of cyclists around in the image. They can
+2dac9cac1010392ede621d4c26f37cd0,cea4263f7822855aab6ef0c1263712bf,Riding bicycles, need for exercise and individual transportation method.
+2dac9cac1010392ede621d4c26f37cd0,cea4263f7822855aab6ef0c1263712bf,Bicyclist riding through city, safety, convenience.
+dd87c2fa13d98f7569213f2748f7cbbc,23528c8f688e6b12a1cbc084d4962ef0,No, the cyclist is not in my lane. The four-way
+dd87c2fa13d98f7569213f2748f7cbbc,23528c8f688e6b12a1cbc084d4962ef0,No, the cyclist is on a separate lane or bike-only
+34d8b809ed6dd0e287875d37fcebf740,23528c8f688e6b12a1cbc084d4962ef0,A car is driving straight without any indication of its intent, justification:
+34d8b809ed6dd0e287875d37fcebf740,23528c8f688e6b12a1cbc084d4962ef0,Driver is taking a photograph, justification is to capture a moment, possibly related
+c4edb8ff06a305f4ee1adfe7f13ccb0e,23528c8f688e6b12a1cbc084d4962ef0,There are two cyclists in the image.
+c4edb8ff06a305f4ee1adfe7f13ccb0e,23528c8f688e6b12a1cbc084d4962ef0,There is only one cyclist visible in the image, and they are at the
+20a51654bc53a91f9d8c0fc949d35d0c,23528c8f688e6b12a1cbc084d4962ef0,Since the scene is of an empty city street on a cloudy day, both
+20a51654bc53a91f9d8c0fc949d35d0c,23528c8f688e6b12a1cbc084d4962ef0,As the image shows a car driving on an empty, curvy road, where
+da059647f902f62a56c8c1fa3e828250,23528c8f688e6b12a1cbc084d4962ef0,In the scene, a man is crossing the street near a tree. While there
+da059647f902f62a56c8c1fa3e828250,23528c8f688e6b12a1cbc084d4962ef0,Yes, there is a hazard on the road ahead. A person is
+3460fa1ef6a878d69f96bbb4e230b6ae,a55026aa4029fd3db4f6738006a50675,Yes, there are cyclists in the image. You can spot them riding
+3460fa1ef6a878d69f96bbb4e230b6ae,a55026aa4029fd3db4f6738006a50675,Yes, there is a person riding a bicycle in the image.
+0b1b671f378e31f1be98c5c3cb58dbfd,a55026aa4029fd3db4f6738006a50675,Cycling, parked cars, traffic lights, public benches - the current
+0b1b671f378e31f1be98c5c3cb58dbfd,a55026aa4029fd3db4f6738006a50675,Riding bicycle, turn left Justification: The person r
+1aa98d4d5d3a315514b97565d68345d0,a55026aa4029fd3db4f6738006a50675,Yes, there are a couple of bicycles seen going down the middle of
+1aa98d4d5d3a315514b97565d68345d0,a55026aa4029fd3db4f6738006a50675,Yes, there is a person riding a bicycle on the road.
+46f7614db510295b7ef72701593bb316,a55026aa4029fd3db4f6738006a50675,Yes, there is traffic in the lane. Specifically, an elderly man
+46f7614db510295b7ef72701593bb316,a55026aa4029fd3db4f6738006a50675,Yes, there is traffic in my lane. A bicyclist is
+d7e9cbf3cf289bce6ab469b35006e619,a55026aa4029fd3db4f6738006a50675,Yes, you should yield to any vehicle that has the right of way at this
+d7e9cbf3cf289bce6ab469b35006e619,a55026aa4029fd3db4f6738006a50675,At this intersection, the stop sign indicates that vehicles must come to a complete stop
+e054322a5e846bf3412a81d0dc4b1d16,04c64714f8a1bf28da156721ed7eff32,There are no pedestrians visible in the image.
+e054322a5e846bf3412a81d0dc4b1d16,04c64714f8a1bf28da156721ed7eff32,There are no pedestrians visible in the image, only cars and tr
+2db5e27f614f7acb0e50cdf31dbdfd1b,04c64714f8a1bf28da156721ed7eff32,Yes, I am required to stop and ensure safety while crossing the leopard
+2db5e27f614f7acb0e50cdf31dbdfd1b,04c64714f8a1bf28da156721ed7eff32,Yes, you need to come to a stop as the traffic light is now red
+57eb80c815f383c27976c412a974d419,04c64714f8a1bf28da156721ed7eff32,Yes, there are cars currently in the car lane where the car is park
+57eb80c815f383c27976c412a974d419,04c64714f8a1bf28da156721ed7eff32,Yes, there is a truck driving in our lane.
+dde386d56fd1447cea69f8e8945651b6,04c64714f8a1bf28da156721ed7eff32,Yes, there is a cyclist visible on the road in the image. Specifically
+dde386d56fd1447cea69f8e8945651b6,04c64714f8a1bf28da156721ed7eff32,Yes, there are cyclists on the road. They are in motion and r
+aaf2776b95c07e8d7be7ed9b17fc47ea,04c64714f8a1bf28da156721ed7eff32,Vehicles are stopped at the stop sign. Justification: Stopping at
+aaf2776b95c07e8d7be7ed9b17fc47ea,04c64714f8a1bf28da156721ed7eff32,The current action is waiting at a stop sign at an intersection. Justification:
+6f80aa6acd407baec0356cf02eef2f5f,16ac40a0f73c04115c5ab188d7922491,Yes, there are traffic signals in the road. In this image, we can
+6f80aa6acd407baec0356cf02eef2f5f,16ac40a0f73c04115c5ab188d7922491,Yes, there are traffic signals in the image. They show a green light.
+f7fde130793719c8afd5e8de7c2a1669,16ac40a0f73c04115c5ab188d7922491,It is not safe to enter the intersection at this time because multiple traffic lights are
+f7fde130793719c8afd5e8de7c2a1669,16ac40a0f73c04115c5ab188d7922491,At this time, it may not be safe to enter the intersection due to the
+a57eaea570e9cea955569d13ad4c8e23,16ac40a0f73c04115c5ab188d7922491,Action: Riding bicycle on road near traffic lights, cars and bus
+a57eaea570e9cea955569d13ad4c8e23,16ac40a0f73c04115c5ab188d7922491,The man on the bike getting ready to cross the street at the signal.
+6f07035025df6d95abe8d12727dca503,16ac40a0f73c04115c5ab188d7922491,Yes, there are cyclists in this image. They are riding their b
+6f07035025df6d95abe8d12727dca503,16ac40a0f73c04115c5ab188d7922491,Yes, there are cyclists present in the image riding down the street.
+78e2dde5cfd5189bb194ab01610202a3,16ac40a0f73c04115c5ab188d7922491,Yes, there is a man crossing the road ahead of a bicyclist
+78e2dde5cfd5189bb194ab01610202a3,16ac40a0f73c04115c5ab188d7922491,Yes, there is a group of pedestrians riding bicycles
+43a93a761b31639c3dd11b97e4a7739a,01dbcf4b079b49b6ca34c0475492380c,Yes, there is a man standing at the end of the street where the double
+43a93a761b31639c3dd11b97e4a7739a,01dbcf4b079b49b6ca34c0475492380c,Yes, there are a few pedestrians crossing the street near the red
+60757d760b8845fb13c459d5e02b1a86,01dbcf4b079b49b6ca34c0475492380c,Yes, there are traffic lights present in the scene, and their colors are red
+60757d760b8845fb13c459d5e02b1a86,01dbcf4b079b49b6ca34c0475492380c,Yes, there are traffic lights visible in the image. One of the traffic lights
+3df8fd33c7747823283df9991e266165,01dbcf4b079b49b6ca34c0475492380c,In this scenario, the street is narrow with parked buses on either side
+3df8fd33c7747823283df9991e266165,01dbcf4b079b49b6ca34c0475492380c,In this urban setting, with a red tram coming down the road near tall buildings
+0f0ded19aa951c8f46e0dc3b3f0bcf1a,01dbcf4b079b49b6ca34c0475492380c,Person walking on sidewalk, justification: convenience and ease of commute when
+0f0ded19aa951c8f46e0dc3b3f0bcf1a,01dbcf4b079b49b6ca34c0475492380c,Walking, individuals in the image are seen walking on the wooden sidewalk,
+4d1e627ea386de5cf9d74d488534427f,01dbcf4b079b49b6ca34c0475492380c,I am focusing on the double red bus, which is turning right on the
+4d1e627ea386de5cf9d74d488534427f,01dbcf4b079b49b6ca34c0475492380c,In the image, both the red and white bus and the line of cars are
+c4a09e2b0c48609b8225e92f41fac983,0e4e17ad8f45c7bcce2c1ac65f83b10c,To the bus, you should yield because it is carrying many passengers and driving down
+c4a09e2b0c48609b8225e92f41fac983,0e4e17ad8f45c7bcce2c1ac65f83b10c,In the image, multiple cyclists are riding down the road, and there
+cfe64e99e15062ea55924b8c70e81d49,0e4e17ad8f45c7bcce2c1ac65f83b10c,The traffic lights at this intersection are black.
+cfe64e99e15062ea55924b8c70e81d49,0e4e17ad8f45c7bcce2c1ac65f83b10c,Yes, there are red traffic lights in the image, along with a bicy
+2743a4965e3a9d9c67f4980f0dffef88,0e4e17ad8f45c7bcce2c1ac65f83b10c,Riding a bicycle on the street, obeying traffic rules. Just
+2743a4965e3a9d9c67f4980f0dffef88,0e4e17ad8f45c7bcce2c1ac65f83b10c,Riding bikes, justification: get around multiple vehicles on road more efficiently
+96ee3656192358b39e7a9095777a4434,0e4e17ad8f45c7bcce2c1ac65f83b10c,I am following a group of people riding bicycles down a roadway
+96ee3656192358b39e7a9095777a4434,0e4e17ad8f45c7bcce2c1ac65f83b10c,I am following a group of people on bicycles.
+0c5e38b13986cfe96a71ed037e275d6c,0e4e17ad8f45c7bcce2c1ac65f83b10c,In this driving scenario, the driver should pay close attention to the presence of numerous
+0c5e38b13986cfe96a71ed037e275d6c,0e4e17ad8f45c7bcce2c1ac65f83b10c,In this driving scenario, the driver needs to be extra cautious about the
+b31fbd9b3ffd48ffac9b490bbf285085,ab4845470b41f0e123da50c996c35745,A person is crossing the city in the middle of the street. As pedest
+b31fbd9b3ffd48ffac9b490bbf285085,ab4845470b41f0e123da50c996c35745,In the image, two people are crossing a small street at a crosswalk in
+283ead94a77adaeb1ee443979bca9506,ab4845470b41f0e123da50c996c35745,Yes, there is a traffic light in the vicinity. The traffic light is
+283ead94a77adaeb1ee443979bca9506,ab4845470b41f0e123da50c996c35745,Yes, there is a traffic light close by. The traffic light displays a red
+fc17a2707547c73bd15def36ca9d4fab,ab4845470b41f0e123da50c996c35745,Two pedestrians crossing the intersection. Justification is that they are following
+fc17a2707547c73bd15def36ca9d4fab,ab4845470b41f0e123da50c996c35745,People are walking across a road that has a single lane traffic. Justification
+afb24a72bfd09faf721435284284545d,ab4845470b41f0e123da50c996c35745,Yes, you can enter the intersection now that it's your turn at the
+afb24a72bfd09faf721435284284545d,ab4845470b41f0e123da50c996c35745,Yes, you can enter the intersection by crossing the street and proceeding with ca
+27cd6f3876d403b27123b7b8bb323ded,ab4845470b41f0e123da50c996c35745,The car is making the driving more difficult due to its presence on the street.
+27cd6f3876d403b27123b7b8bb323ded,ab4845470b41f0e123da50c996c35745,The car that's in the foreground is impacting my driving by partially
+7b48a237f98e303b9585f051c337ec29,2506f1593774d92c0e46c61a8b6fb61e,Yes, there are traffic signals at this junction. Both the traffic light next
+7b48a237f98e303b9585f051c337ec29,2506f1593774d92c0e46c61a8b6fb61e,Yes, there are traffic signals at this junction. They are yellow and black
+e8879ea879a5e841f3a2c7d538d6e807,2506f1593774d92c0e46c61a8b6fb61e,Yes, you can drive over the zebra crossing at this time because the
+e8879ea879a5e841f3a2c7d538d6e807,2506f1593774d92c0e46c61a8b6fb61e,Yes, as the image captures an empty street with no cars driving, you
+5b27c9761eec89f9935e154fd0fba29e,2506f1593774d92c0e46c61a8b6fb61e,Turning left. Latest infrared thermal technology assists drivers to see
+5b27c9761eec89f9935e154fd0fba29e,2506f1593774d92c0e46c61a8b6fb61e,Car is driving, people are walking. Drive car carefully, ensuring safety for
+70df921a1373944a657285e71464bf5e,2506f1593774d92c0e46c61a8b6fb61e,According to the image, there are no roadworks or construction zones that can be
+70df921a1373944a657285e71464bf5e,2506f1593774d92c0e46c61a8b6fb61e,In the image, the cars on the street should be cautious about the
+9b72133c6eefb9bdb6d772711d447b1a,2506f1593774d92c0e46c61a8b6fb61e,There are six cyclists in the image.
+9b72133c6eefb9bdb6d772711d447b1a,2506f1593774d92c0e46c61a8b6fb61e,In the image, there are two cyclists.
+4d28b2fe1ca8c19447cc417479d2e780,708093da66b3a7e6f2dbf35a52b01c33,Driving down the street. Justification: Drivers are navigating
+4d28b2fe1ca8c19447cc417479d2e780,708093da66b3a7e6f2dbf35a52b01c33,Stopping at the intersection, obeying traffic rules. Justification: Safety
+d7d9164a7efd151e5c29d4f1294cdd96,708093da66b3a7e6f2dbf35a52b01c33,There are three parked cars visible in the image.
+d7d9164a7efd151e5c29d4f1294cdd96,708093da66b3a7e6f2dbf35a52b01c33,There are four parked cars visible in the image at this intersection. Given that
+55ada9111b8234843c3bc0ddcea1eed9,708093da66b3a7e6f2dbf35a52b01c33,There appears to be a slow-moving car approaching an intersection on the road
+55ada9111b8234843c3bc0ddcea1eed9,708093da66b3a7e6f2dbf35a52b01c33,Considering the image, with both cars and pedestrians present, the
+4c9e2f6c97436507b14d667214d7df8d,708093da66b3a7e6f2dbf35a52b01c33,Yes, it is required for you to come to a stop at this roundabout
+4c9e2f6c97436507b14d667214d7df8d,708093da66b3a7e6f2dbf35a52b01c33,Based on the image, it is required for cars to come to a stop at
+486d1c8eae81e2ede2b80d474b847369,708093da66b3a7e6f2dbf35a52b01c33,Yes, there are cyclists passing through the narrow country road intersection. This suggests
+486d1c8eae81e2ede2b80d474b847369,708093da66b3a7e6f2dbf35a52b01c33,No, there are no cyclists in this image.
+fdf32338af93de64e58c539734aedbd0,cd0f484698c6828b020fff5c65864d7c,Yes, there are three traffic lights present, and they are all displaying a go
+fdf32338af93de64e58c539734aedbd0,cd0f484698c6828b020fff5c65864d7c,Yes, there are several traffic lights present in the image with green and red lights
+f72ced3390488e788aa5006cf0d7546b,cd0f484698c6828b020fff5c65864d7c,Yes, there is a traffic light in the image, and it is displaying the
+f72ced3390488e788aa5006cf0d7546b,cd0f484698c6828b020fff5c65864d7c,Yes, there is a traffic light in sight. The traffic light displays a green
+90275f8889696f741f5bd5cf9c292c06,cd0f484698c6828b020fff5c65864d7c,Yes, there are crosswalks visible on the road in the image. The
+90275f8889696f741f5bd5cf9c292c06,cd0f484698c6828b020fff5c65864d7c,Yes, there are crosswalks on this road, which are typically marked with
+7a3eb67194206c43107252a3bc07c0fe,cd0f484698c6828b020fff5c65864d7c,There are traffic lights and signs on the road ahead, which may indicate limited acceleration
+7a3eb67194206c43107252a3bc07c0fe,cd0f484698c6828b020fff5c65864d7c,In the image, there is a hazard ahead that requires caution as
+2028cbded15ed826528e75e37be68784,cd0f484698c6828b020fff5c65864d7c,Pedestrian walking to his car and about to get into his car. This
+2028cbded15ed826528e75e37be68784,cd0f484698c6828b020fff5c65864d7c,A man is walking across the street, sideswiping past a car,
+dcb2c067997c7eeb720ccb5d6cde9287,6522f0c917af4a0d8deb045e07cba594,Yes, you should slow down because the scene depicts a city road with
+dcb2c067997c7eeb720ccb5d6cde9287,6522f0c917af4a0d8deb045e07cba594,Yes, it would be advisable to slow down and obey traffic regulations in
+481b14eb3e9fd26ca65c24f70ef37be8,6522f0c917af4a0d8deb045e07cba594,There are multiple cyclists in the scene.
+481b14eb3e9fd26ca65c24f70ef37be8,6522f0c917af4a0d8deb045e07cba594,In the image, there are two cyclists riding near buses on the
+706cb8a36b96d8e90ae92d32b485f5cc,6522f0c917af4a0d8deb045e07cba594,Two cars are driving in your direction.
+706cb8a36b96d8e90ae92d32b485f5cc,6522f0c917af4a0d8deb045e07cba594,One car is driving in the same direction as the bus on the busy city square
+66335c423740f5cad751d3a58df3a0fd,6522f0c917af4a0d8deb045e07cba594,No, this situation is unfavorable for merging into the lane to
+66335c423740f5cad751d3a58df3a0fd,6522f0c917af4a0d8deb045e07cba594,No, you should not merge into the lane to your left as it is
+53dfbe2ca2ea314f870cf351a1a8b6a3,6522f0c917af4a0d8deb045e07cba594,Driving, tailgating.
+53dfbe2ca2ea314f870cf351a1a8b6a3,6522f0c917af4a0d8deb045e07cba594,Stopping, parked by side of road.
+3b40ae5959b1d718223b61b421c9d667,0fc7c33bf1d778e944d5e374e64240bb,No, the car on the right is not immobilized due to a par
+3b40ae5959b1d718223b61b421c9d667,0fc7c33bf1d778e944d5e374e64240bb,Yes, there is a car parked next to a parking meter that is
+c36050705d6b759f701c8daa57e860d7,0fc7c33bf1d778e944d5e374e64240bb,As an AI, I cannot avoid cycling laws or interact with traffic,
+c36050705d6b759f701c8daa57e860d7,0fc7c33bf1d778e944d5e374e64240bb,Yes, it is safe for me to proceed through the intersection because it is desert
+139ff4a2206de6fe92aca58b74a6a547,0fc7c33bf1d778e944d5e374e64240bb,No, there is no vehicle near me at the traffic light scene.
+139ff4a2206de6fe92aca58b74a6a547,0fc7c33bf1d778e944d5e374e64240bb,Yes, there is a car in front of me at the traffic light that has
+ea4ae519054e64c07b4e97d2a8ac23be,0fc7c33bf1d778e944d5e374e64240bb,Turning right, need to cross the street to safely navigate other traffic.
+ea4ae519054e64c07b4e97d2a8ac23be,0fc7c33bf1d778e944d5e374e64240bb,Man is walking down the street; two cars are parked along it.
+04c9f9e10e0af69ea8b3c3ab075893cd,0fc7c33bf1d778e944d5e374e64240bb,The traffic lights indicate that vehicles and pedestrians must stop at the red
+04c9f9e10e0af69ea8b3c3ab075893cd,0fc7c33bf1d778e944d5e374e64240bb,The traffic lights in the image indicate that vehicles and pedestrians should stop
+b03c45ede977bd6673a0d4600f5108fe,5fd375189aa75315f808df106a650068,The person is facing to the right due to the different expressions seen on the faces
+b03c45ede977bd6673a0d4600f5108fe,5fd375189aa75315f808df106a650068,Simulating a car ride, speed limit obeyed justification: Adhering
+ef5b53f14f33f707a0029cdd9005400f,5fd375189aa75315f808df106a650068,Yes, there is a red ambulance crossing an intersection in the busy city
+ef5b53f14f33f707a0029cdd9005400f,5fd375189aa75315f808df106a650068,Yes, I can see a red ambulance parked next to the road
+c1156cd61d5827fabffd67daa248dd5d,5fd375189aa75315f808df106a650068,Yes, there is a green light in the image, and it is situated on
+c1156cd61d5827fabffd67daa248dd5d,5fd375189aa75315f808df106a650068,Yes, there are several traffic lights in the scene. At least two of them
+8e6d287b41fcc4427cd2b0ef1efd3a98,5fd375189aa75315f808df106a650068,In the right lane, there are a couple of vehicles, including a motor
+8e6d287b41fcc4427cd2b0ef1efd3a98,5fd375189aa75315f808df106a650068,There are no vehicles in the right lane.
+4d5598773e7eec99aa707ec92eed7048,5fd375189aa75315f808df106a650068,Yes, you should reduce your speed to ensure safety while approaching the intersection in this
+4d5598773e7eec99aa707ec92eed7048,5fd375189aa75315f808df106a650068,Yes, you should reduce your speed due to the presence of a dented street
+4e7a7bd4b78867b2cf3c947dfe9c1df0,a92897f3de30fa1578ddf84dbf708ebe,Traffic light is green, vehicles are moving forward, pedestrians are
+4e7a7bd4b78867b2cf3c947dfe9c1df0,a92897f3de30fa1578ddf84dbf708ebe,At the present moment, there is a person on a horse moving around the intersection
+e83261ed3f76ef3b4603b9f775c50b45,a92897f3de30fa1578ddf84dbf708ebe,There are no parked cars on the left side of the road. Several people
+e83261ed3f76ef3b4603b9f775c50b45,a92897f3de30fa1578ddf84dbf708ebe,There are two cars parked on the left side of the road.
+0e52d62342e9fd6a85c77e204cb566a5,a92897f3de30fa1578ddf84dbf708ebe,It is not safe to accelerate in the given traffic circumstances. In the image
+0e52d62342e9fd6a85c77e204cb566a5,a92897f3de30fa1578ddf84dbf708ebe,Based on the image, it is not safe to accelerate in the given circumstances
+4301df8637b068580be2e33ae3767563,a92897f3de30fa1578ddf84dbf708ebe,In the image, the small black car is driving towards the intersection, holding the
+4301df8637b068580be2e33ae3767563,a92897f3de30fa1578ddf84dbf708ebe,In the image, the right of way belongs to the traffic signal across the street
+dd658fa9b1e85b0f1691e129802a91c3,a92897f3de30fa1578ddf84dbf708ebe,You can see a couple of people riding motorcycles in the image.
+dd658fa9b1e85b0f1691e129802a91c3,a92897f3de30fa1578ddf84dbf708ebe,Two motorcyclists can be seen in the image.
+157d0fccb6daba361d2dd8b8b53df6d5,dad2e5f536e0c7a91e4929405eeb19da,Based on the image, the red bus is nearby while the rider is using
+157d0fccb6daba361d2dd8b8b53df6d5,dad2e5f536e0c7a91e4929405eeb19da,Yes, the driver needs to come to a stop in this busy urban street scene
+a21a84894868c3a191b321581726e157,dad2e5f536e0c7a91e4929405eeb19da,Yes, there is a bus stopped at the zebra crossing to allow someone
+a21a84894868c3a191b321581726e157,dad2e5f536e0c7a91e4929405eeb19da,Yes, there is a cyclist stopped at the zebra crossing, waiting
+3fae5943a289ca2d212ce8f78f0030e1,dad2e5f536e0c7a91e4929405eeb19da,A bus might have difficulties overtaking a cyclist in this image, as
+3fae5943a289ca2d212ce8f78f0030e1,dad2e5f536e0c7a91e4929405eeb19da,Yes, the large truck is trying to overtake the cyclist on the
+142cfc311c33085077ddbb2ad026f3f7,dad2e5f536e0c7a91e4929405eeb19da,Yes, it is possible for the car to accelerate in the situation shown in
+142cfc311c33085077ddbb2ad026f3f7,dad2e5f536e0c7a91e4929405eeb19da,Yes, it is possible for me to accelerate in this situation due to the
+be6b56c1b43400f0b4a1281c4b884889,dad2e5f536e0c7a91e4929405eeb19da,Bicycle rider stopped at the traffic light - The bicycle r
+be6b56c1b43400f0b4a1281c4b884889,dad2e5f536e0c7a91e4929405eeb19da,Climbing on top of double-decker bus. The justification for
+e63066f7e937c4bf24f1b1cecddec8a5,ce3084593e16b501a27dbbef7b2aa653,It is not safe to enter the intersection at this time as there is a person
+e63066f7e937c4bf24f1b1cecddec8a5,ce3084593e16b501a27dbbef7b2aa653,Based on the image, it is not safe to enter the intersection at this time
+0007efb46bd4323120fcfe5046bf8b27,ce3084593e16b501a27dbbef7b2aa653,At the given intersection, it is allowed to make a right turn if necessary.
+0007efb46bd4323120fcfe5046bf8b27,ce3084593e16b501a27dbbef7b2aa653,Based on the image, even though there is a "No right turn" sign
+ad48c822d8886513700a46c512df61d7,ce3084593e16b501a27dbbef7b2aa653,Yes.
+ad48c822d8886513700a46c512df61d7,ce3084593e16b501a27dbbef7b2aa653,No, I am driving at a steady speed as per the local traffic rules,
+12cd8ae15ded41fddaf587966413c68a,ce3084593e16b501a27dbbef7b2aa653,Uncrossing street, crossing laws.
+12cd8ae15ded41fddaf587966413c68a,ce3084593e16b501a27dbbef7b2aa653,Man walking, to get somewhere, exercise.
+85b3d5f8f90f3f24709d1372be3e094a,ce3084593e16b501a27dbbef7b2aa653,While there is a person walking across the street next to a car, it doesn
+85b3d5f8f90f3f24709d1372be3e094a,ce3084593e16b501a27dbbef7b2aa653,No, I can't spot any immediate hazards on the road ahead
+517770dcbba053a16d6101fcddbec8f2,556f9177eda8301534e145f1d2287736,My next planned action is to drive carefully and slowly due to the busy intersection,
+517770dcbba053a16d6101fcddbec8f2,556f9177eda8301534e145f1d2287736,My next action will involve pulling over to the bustling crosswalk or any
+9e42d272c1852d3f331217f0782ec84f,556f9177eda8301534e145f1d2287736,In the image, a white van and a red double-decker bus are
+9e42d272c1852d3f331217f0782ec84f,556f9177eda8301534e145f1d2287736,In this driving scenario, the driver's attention needs to be on a line
+0f21bfdcdb7599a29d5524d925a6397e,556f9177eda8301534e145f1d2287736,Yes, the vehicle in the image resembles a car and is positioned
+0f21bfdcdb7599a29d5524d925a6397e,556f9177eda8301534e145f1d2287736,Yes, you can make a right turn at this intersection. The image shows a
+51e561858e5328d756fb1579f4151531,556f9177eda8301534e145f1d2287736,The safety of entering the intersection depends on the traffic signals and the actions of the
+51e561858e5328d756fb1579f4151531,556f9177eda8301534e145f1d2287736,Based on the image, it is not safe to enter the intersection at this time
+eaac7fb52303af7ee06676b0a604c9e0,556f9177eda8301534e145f1d2287736,Driving, entitlement to obey traffic regulations.
+eaac7fb52303af7ee06676b0a604c9e0,556f9177eda8301534e145f1d2287736,Cop making a right turn onto another street. Justification: To ensure smooth traffic
+87621ad729afa4b2ca381cf79d4b59c9,5b79a31f791f6b5f575122a6ddcb6e7e,Yes, there are several traffic lights present at the intersection. The lights this particular
+87621ad729afa4b2ca381cf79d4b59c9,5b79a31f791f6b5f575122a6ddcb6e7e,Yes, there are traffic lights present at the intersection. The color displayed is green
+e6dad7a1c095b6fd2027d7d19788d1a3,5b79a31f791f6b5f575122a6ddcb6e7e,Driving through an intersection. (Justification: To progress in a non
+e6dad7a1c095b6fd2027d7d19788d1a3,5b79a31f791f6b5f575122a6ddcb6e7e,Running light, justification: To ensure safety at intersection and increase drivers' aw
+3348ee9650782a4af8d0d17343f395dc,5b79a31f791f6b5f575122a6ddcb6e7e,From the image, it seems that I am not well positioned to make a
+3348ee9650782a4af8d0d17343f395dc,5b79a31f791f6b5f575122a6ddcb6e7e,Yes, the car is stopped at a red traffic light and appears to be travel
+709aefe1287bb529af23f9d143f96820,5b79a31f791f6b5f575122a6ddcb6e7e,Yes, there is an immobilized pedestrian crossing in front of the
+709aefe1287bb529af23f9d143f96820,5b79a31f791f6b5f575122a6ddcb6e7e,There is no definite information in the image itself regarding what could be blocking the car
+2c7604b2b1644f56d12ed83c4ba44bec,5b79a31f791f6b5f575122a6ddcb6e7e,The vehicle in front is turning right.
+2c7604b2b1644f56d12ed83c4ba44bec,5b79a31f791f6b5f575122a6ddcb6e7e,The vehicle in front, a black SUV, is turning right.
+95f288c4a0627a99dde8e52da98857f7,8127f3b506fa0146a795f0085bb60cd3,There is no traffic in my lane. However, there are several other vehicles
+95f288c4a0627a99dde8e52da98857f7,8127f3b506fa0146a795f0085bb60cd3,No, there is no traffic in my lane. The lane appears to
+532f9fbb943f3c8ec37d412da6c12e44,8127f3b506fa0146a795f0085bb60cd3,Yes, your lane is experiencing traffic congestion. The image dep
+532f9fbb943f3c8ec37d412da6c12e44,8127f3b506fa0146a795f0085bb60cd3,Yes, the lane is experiencing traffic congestion, with multiple vehicles
+27891d80077204801427b8cbfa56e4ec,8127f3b506fa0146a795f0085bb60cd3,Person crossing the street at crosswalk, the justification is that it is a
+27891d80077204801427b8cbfa56e4ec,8127f3b506fa0146a795f0085bb60cd3,Frisbee in her hand, playful activity.
+d3dd6e9a3ce775eea53e1d698dc5f101,8127f3b506fa0146a795f0085bb60cd3,In this driving scenario, a woman has just walked across the city street while the
+d3dd6e9a3ce775eea53e1d698dc5f101,8127f3b506fa0146a795f0085bb60cd3,In the image, we see a man crossing the street using a crosswalk amid
+b7f321743c76342db2ca741d3631153e,8127f3b506fa0146a795f0085bb60cd3,My next action will be to stop the vehicle once the pedestrian has crossed
+b7f321743c76342db2ca741d3631153e,8127f3b506fa0146a795f0085bb60cd3,As a person walking across the street next to the city street, my next action
+1fc0edf57d4f8ce85d3daf2b40310788,cedf6e4dacd1abe46f36b688ac36fc34,Yes, there is a zebra crossing at the intersection with cars stopped for
+1fc0edf57d4f8ce85d3daf2b40310788,cedf6e4dacd1abe46f36b688ac36fc34,Yes, there is a zebra crossing at an intersection in the city.
+402908c7f9fdc1b20d51beefcd8ce866,cedf6e4dacd1abe46f36b688ac36fc34,Posting, 01:00 EST.
+402908c7f9fdc1b20d51beefcd8ce866,cedf6e4dacd1abe46f36b688ac36fc34,White car making turn Justification: The white car is making a right turn
+76189ebee0f3fa4e300c248ce0d8b926,cedf6e4dacd1abe46f36b688ac36fc34,At this intersection, you can proceed because there are traffic lights to control the flow
+76189ebee0f3fa4e300c248ce0d8b926,cedf6e4dacd1abe46f36b688ac36fc34,You can proceed at this intersection because the traffic light is green, indicating a safe
+7be0e99f6beb0384c13ffbd522da1a43,cedf6e4dacd1abe46f36b688ac36fc34,Yes, there are several pedestrians present in the scene. They can
+7be0e99f6beb0384c13ffbd522da1a43,cedf6e4dacd1abe46f36b688ac36fc34,Yes, there are pedestrians present in the scene. You can find
+e3c7ac883028106de16f24477ed53de9,cedf6e4dacd1abe46f36b688ac36fc34,Car with yellow license plate
+e3c7ac883028106de16f24477ed53de9,cedf6e4dacd1abe46f36b688ac36fc34,Taxi
+762f6dbd5e7bad995c19b585ad064f2b,e2f2517cb762eb532be383cae04d652a,No, there are no pedestrians crossing the road in this image.
+762f6dbd5e7bad995c19b585ad064f2b,e2f2517cb762eb532be383cae04d652a,No, the street is empty with no pedestrians crossing the road.
+b165f94c591f02241d849f5305cd81e3,e2f2517cb762eb532be383cae04d652a,Yes, there is a traffic signal present in the image. It is showing a
+b165f94c591f02241d849f5305cd81e3,e2f2517cb762eb532be383cae04d652a,Yes, there is a traffic signal present in the image, and it is currently
+d485f9ea658061f01e58b7c6045c5490,e2f2517cb762eb532be383cae04d652a,Turning right, just stop at the red light.
+d485f9ea658061f01e58b7c6045c5490,e2f2517cb762eb532be383cae04d652a,Vehicle is driving on road, justification is personal transportation.
+06406192a47022c3435fc373360598eb,e2f2517cb762eb532be383cae04d652a,In this scene, a group of cars is traveling down an empty, dark
+06406192a47022c3435fc373360598eb,e2f2517cb762eb532be383cae04d652a,The scene features a two-lane city street with a number of parked and
+a47dda86da7478ca8eceaadfd5d194d8,e2f2517cb762eb532be383cae04d652a,There are two cars parked on the left side of the road.
+a47dda86da7478ca8eceaadfd5d194d8,e2f2517cb762eb532be383cae04d652a,There are two cars parked on the left side of the road.
+f7e6e328de6577dc6745c11e13dc1e52,43e53c341ab5aae565705dede4de87ab,Yes, there is a white van ahead of you in the middle lane.
+f7e6e328de6577dc6745c11e13dc1e52,43e53c341ab5aae565705dede4de87ab,No, there are no vehicles in the lane in front of the car,
+ca95110b435c057fdae479aa64e83cdd,43e53c341ab5aae565705dede4de87ab,Yes, there are traffic lights present in the image. They are displaying yellow lights
+ca95110b435c057fdae479aa64e83cdd,43e53c341ab5aae565705dede4de87ab,Yes, there is a traffic light present in the scene. It is displaying a
+e57cccea9abd16102ccb97a096dd3786,43e53c341ab5aae565705dede4de87ab,As a Gold Award-winning photographer, I plan to enlarge the
+e57cccea9abd16102ccb97a096dd3786,43e53c341ab5aae565705dede4de87ab,In the given scene, a small white car has stopped behind a line at a
+1b162cb04033be77383da35286e2cc02,43e53c341ab5aae565705dede4de87ab,Yes, there are cars, buses, and pedestrians in the
+1b162cb04033be77383da35286e2cc02,43e53c341ab5aae565705dede4de87ab,No, there are no buses visible in the image.
+24d9c858457262a877eae79d76260cd7,43e53c341ab5aae565705dede4de87ab,The current action is that people are walking across the street, while a car and
+24d9c858457262a877eae79d76260cd7,43e53c341ab5aae565705dede4de87ab,Stopped, waiting for light. Justification: Safety regulations require vehicles
+118cc31bd8b2b03e3643d0163d864a8f,2a3e08c04123f3cb76368ec6f2800ae6,No
+118cc31bd8b2b03e3643d0163d864a8f,2a3e08c04123f3cb76368ec6f2800ae6,No, the motorcyclist is in the adjacent lane on the opposite
+0a8c3ff0818fe1b9b4e29b078f6dae73,2a3e08c04123f3cb76368ec6f2800ae6,Car
+0a8c3ff0818fe1b9b4e29b078f6dae73,2a3e08c04123f3cb76368ec6f2800ae6,The black car (Mercedes) is the vehicle that you are currently following.
+75f69977b8503f97c7ea1963ce6eaf1b,2a3e08c04123f3cb76368ec6f2800ae6,Yes, the cyclist is riding in the same lane as the car
+75f69977b8503f97c7ea1963ce6eaf1b,2a3e08c04123f3cb76368ec6f2800ae6,Yes, the cyclist is riding in the same lane as the cars
+5531be42dd8310f19550da4630f361b6,2a3e08c04123f3cb76368ec6f2800ae6,The red car is driving in the same direction as the other vehicles.
+5531be42dd8310f19550da4630f361b6,2a3e08c04123f3cb76368ec6f2800ae6,The red car is driving in the opposite direction of the line of motorcycles
+3aded9e3430db07f8d73f2a9b69526ec,2a3e08c04123f3cb76368ec6f2800ae6,Riding motorcycle, justifying speed limit
+3aded9e3430db07f8d73f2a9b69526ec,2a3e08c04123f3cb76368ec6f2800ae6,Man is riding his motorcycle down the sidewalk. Justification: A
+2e12078f7c64ed3cbf7604909b0f84b1,b6e397dd9a84bf1151e4c8d27f6e03fa,Yes, the road ahead is clear in the image, without any obstacles in
+2e12078f7c64ed3cbf7604909b0f84b1,b6e397dd9a84bf1151e4c8d27f6e03fa,No, ahead, the road has a group of kids and teenagers
+40804cfcd6002c42177d155feaca1653,b6e397dd9a84bf1151e4c8d27f6e03fa,Yes, there is a cyclist present in the image. The cyclist is
+40804cfcd6002c42177d155feaca1653,b6e397dd9a84bf1151e4c8d27f6e03fa,Yes, there are cyclists present in this image, and they are located on
+04686c2681702c75cc8f57dc07f5ef17,b6e397dd9a84bf1151e4c8d27f6e03fa,There are three pedestrians crossing the road in the scene.
+04686c2681702c75cc8f57dc07f5ef17,b6e397dd9a84bf1151e4c8d27f6e03fa,I cannot determine the exact number of pedestrians crossing the road as I
+f3558e51ab1157828d13753a1f153365,b6e397dd9a84bf1151e4c8d27f6e03fa,It is not possible to proceed forward immediately as there are pedestrians on
+f3558e51ab1157828d13753a1f153365,b6e397dd9a84bf1151e4c8d27f6e03fa,At the moment, it is not safe to proceed forward as there are people sk
+e1e5c60b576e24f6a6ac9e60cf4a9a29,b6e397dd9a84bf1151e4c8d27f6e03fa,Skating on the road, actions with children. Justification: This
+e1e5c60b576e24f6a6ac9e60cf4a9a29,b6e397dd9a84bf1151e4c8d27f6e03fa,Skateboarders, riding their skateboards, at the crosswalk
+05052ff0141a5cde9312dbc372ff20b5,590371e02b04e7d99853064a97ed3fe1,Yes, there is heavy traffic congestion in my lane. The vehicles
+05052ff0141a5cde9312dbc372ff20b5,590371e02b04e7d99853064a97ed3fe1,Yes, there is heavy traffic congestion in your lane. Trucks
+113cceb17f30a3bc543bdfc7dbaa3b99,590371e02b04e7d99853064a97ed3fe1,Stop car, BOAL is showing on the lane. Justification:
+113cceb17f30a3bc543bdfc7dbaa3b99,590371e02b04e7d99853064a97ed3fe1,Car is moving forward (in front of a blue car), justification is to
+e48446bb7dce984cab682a232816fc5e,590371e02b04e7d99853064a97ed3fe1,I am not following any vehicle on the road as I am inside a vehicle,
+e48446bb7dce984cab682a232816fc5e,590371e02b04e7d99853064a97ed3fe1,Yes, we are currently following a white BMW driving down the city street.
+b907d5696dd9425930990606882f18ae,590371e02b04e7d99853064a97ed3fe1,Yes, there are several vehicles parked on the side of the road, outside
+b907d5696dd9425930990606882f18ae,590371e02b04e7d99853064a97ed3fe1,Yes, there are parked trucks next to the road.
+ac80decdd376989ecdae87be1b1d9c8d,590371e02b04e7d99853064a97ed3fe1,It is essential to pay attention to the traffic and pedestrians in the
+ac80decdd376989ecdae87be1b1d9c8d,590371e02b04e7d99853064a97ed3fe1,In this scenario, you should be aware of the traffic conditions and carefully monitor the
+cd1a4de5aa41a1eb79a634e62c4c51dc,78bda9041fc31a77da224df63f6b8cd0,Leaving stop sign, pedestrians on sidewalk. Action
+cd1a4de5aa41a1eb79a634e62c4c51dc,78bda9041fc31a77da224df63f6b8cd0,Passing, justification: Safety requirement while driving on city streets.
+6b7ca6f5741dfcb6bfea72dc93153bb3,78bda9041fc31a77da224df63f6b8cd0,In this situation, you should be cautious and attentive while driving
+6b7ca6f5741dfcb6bfea72dc93153bb3,78bda9041fc31a77da224df63f6b8cd0,In this scenario, where there is a corner painted with a yellow line indicating both
+e8d1c1fb44ec2aa00454555b4f2a7a48,78bda9041fc31a77da224df63f6b8cd0,To decide whether to stop at this instant, one should consider the pedestri
+e8d1c1fb44ec2aa00454555b4f2a7a48,78bda9041fc31a77da224df63f6b8cd0,When deciding whether to stop at that instant at the red traffic light, it
+2f66550f5f4ec7a4e4022bf1075110e5,78bda9041fc31a77da224df63f6b8cd0,Yes, there are traffic signals in the image, and their color is green.
+2f66550f5f4ec7a4e4022bf1075110e5,78bda9041fc31a77da224df63f6b8cd0,Yes, there is a traffic signal at this city intersection (or street corner).
+d2ea1c2b085f8755fe5eeb1873b61f77,78bda9041fc31a77da224df63f6b8cd0,At this moment, one should focus on the traffic and be aware of other vehicles
+d2ea1c2b085f8755fe5eeb1873b61f77,78bda9041fc31a77da224df63f6b8cd0,At this precise moment, you should focus on the green traffic light above the traffic
+d59c89293c6154ea36b758a3f8f2413a,76cb389da4bde25d3af627968de66278,A woman sits on the sidewalk near the bus stop, reading a book
+d59c89293c6154ea36b758a3f8f2413a,76cb389da4bde25d3af627968de66278,The person is sitting by a bus stop on the street. No action. In
+d88776f4ae18ce8fa3d35b2d60ebc0f4,76cb389da4bde25d3af627968de66278,Yes, it is necessary to bring the vehicle to a halt as the road has
+d88776f4ae18ce8fa3d35b2d60ebc0f4,76cb389da4bde25d3af627968de66278,Yes, it is necessary to bring the vehicle to a halt at the stop sign
+090aa262fdb85ac783a265ad66481fa2,76cb389da4bde25d3af627968de66278,No
+090aa262fdb85ac783a265ad66481fa2,76cb389da4bde25d3af627968de66278,No
+1e10df39088f96cc42621ea79bfa7c1f,76cb389da4bde25d3af627968de66278,There is one car parked in the open, and there are no other vehicles
+1e10df39088f96cc42621ea79bfa7c1f,76cb389da4bde25d3af627968de66278,There are about five parked vehicles on the side of the road visible in the
+e6c091c80da6adbc09babb4435fc92db,76cb389da4bde25d3af627968de66278,There are several factors that can influence the adjustment of speed, such as traffic
+e6c091c80da6adbc09babb4435fc92db,76cb389da4bde25d3af627968de66278,Several factors influence the adjustment of speed, including road conditions, traffic flow,
+87265df72a8c5e4e3485e213d010f143,e9148b5d1dc3d42ae93cb718d1585aca,It is not safe to enter the intersection at this time. In the image,
+87265df72a8c5e4e3485e213d010f143,e9148b5d1dc3d42ae93cb718d1585aca,It's not safe to enter the intersection at this time because of a traffic
+206ffe54c1fc72591f2f6ea17179c6c4,e9148b5d1dc3d42ae93cb718d1585aca,I am moving to the right-turning lane because there is a broken
+206ffe54c1fc72591f2f6ea17179c6c4,e9148b5d1dc3d42ae93cb718d1585aca,There are several reasons for moving towards the right-hand lane on the road
+0e6f7ee826af1a21a3dd636be2483b6c,e9148b5d1dc3d42ae93cb718d1585aca,Yes, there are traffic lights present in the scene. They are currently displaying a
+0e6f7ee826af1a21a3dd636be2483b6c,e9148b5d1dc3d42ae93cb718d1585aca,Yes, there are traffic lights in the scene. One of them shows a red
+b76f1d84c06a7f7c3dd42065453fd2b9,e9148b5d1dc3d42ae93cb718d1585aca,I can see numerous people walking across the empty street, as there are at least
+b76f1d84c06a7f7c3dd42065453fd2b9,e9148b5d1dc3d42ae93cb718d1585aca,There is a pair of people seen crossing the intersection, but I cannot determine a
+4d9fccaaa6e286b8a2bda6d2c5557680,e9148b5d1dc3d42ae93cb718d1585aca,"Walking, pedestrians have right of way."
+4d9fccaaa6e286b8a2bda6d2c5557680,e9148b5d1dc3d42ae93cb718d1585aca,Cycling, stopping at traffic light. Justification: Stopping at
+00c2c186d458a64e22c4a8b6264afba7,ee230014b451c96aa1e690f112ed6738,In the context of the scene, a car is driving down the middle of a
+00c2c186d458a64e22c4a8b6264afba7,ee230014b451c96aa1e690f112ed6738,Yes, as a motorist, you need to come to a complete stop at
+ab45c73853c851fd5947eced89a49df8,ee230014b451c96aa1e690f112ed6738,In the image, a child is walking across the street in a crosswalk next
+ab45c73853c851fd5947eced89a49df8,ee230014b451c96aa1e690f112ed6738,There is a stop sign at the intersection, which is a critical safety aspect to
+fe531f63345a9a432710fd5d922d0434,ee230014b451c96aa1e690f112ed6738,No, it's recommended not to increase your speed in the image. The
+fe531f63345a9a432710fd5d922d0434,ee230014b451c96aa1e690f112ed6738,Based on the image, it is not advisable to increase your speed. A
+9b0ee39bcc2ffcd3d9e82952e7580a0d,ee230014b451c96aa1e690f112ed6738,Crossing the road. Justification: Legal right of way.
+9b0ee39bcc2ffcd3d9e82952e7580a0d,ee230014b451c96aa1e690f112ed6738,Action: A person is trying to cross the street. Justification: The
+f58a20e98cec9b5ed6aca187b9c7dd95,ee230014b451c96aa1e690f112ed6738,Yes, there is traffic in the lane with various types of vehicles present.
+f58a20e98cec9b5ed6aca187b9c7dd95,ee230014b451c96aa1e690f112ed6738,Yes, there is traffic in my lane. The vehicles present in this l
+a656539e99008c78f0f071817ab83cdb,40d730969d4fd2469790189ae721bd10,Yes, based on the image, the road appears to be clear and safe to
+a656539e99008c78f0f071817ab83cdb,40d730969d4fd2469790189ae721bd10,Yes, the road appears clear for driving, as no significant obstacles such as
+42165a259c2deafc0350d58250f1c306,40d730969d4fd2469790189ae721bd10,A bus is ahead of me on the road.
+42165a259c2deafc0350d58250f1c306,40d730969d4fd2469790189ae721bd10,A white and red semi-truck is directly ahead of me on the road
+02ef913d821daa46aa36c9b74dbe53b0,40d730969d4fd2469790189ae721bd10,Pedestrians crossing street, justification: They are walking across the cross
+02ef913d821daa46aa36c9b74dbe53b0,40d730969d4fd2469790189ae721bd10,People crossing the street, laying a white cross-walk Just
+706984b5b22aae7bbb51b45dda37bfe4,40d730969d4fd2469790189ae721bd10,In the image, you can observe a busy E Main street with several cars,
+706984b5b22aae7bbb51b45dda37bfe4,40d730969d4fd2469790189ae721bd10,In this specific scenario, there are people walking across the street at a crosswalk
+a524203a4ad47497caf459f4866d2307,40d730969d4fd2469790189ae721bd10,Yes, there is traffic in the lane. People, cars, pedest
+a524203a4ad47497caf459f4866d2307,40d730969d4fd2469790189ae721bd10,Yes, there is traffic in my lane. The vehicles causing the traffic are
+a125123fca23569bab20bc6ce4f67c0f,990fbf8f0b48da3a82613643b3827aa4,Yes, there is a traffic signal on the street. The signal is displaying a
+a125123fca23569bab20bc6ce4f67c0f,990fbf8f0b48da3a82613643b3827aa4,Yes, there are traffic lights present in the scene. A green traffic light is
+180d99700d81cb2b7d398cabba43c6a2,990fbf8f0b48da3a82613643b3827aa4,No, there isn't any straight traffic in the image. The street appears
+180d99700d81cb2b7d398cabba43c6a2,990fbf8f0b48da3a82613643b3827aa4,No, the traffic is not going straight. The focus is on the two-
+da3da1dad5a54d8f4493afb81161894f,990fbf8f0b48da3a82613643b3827aa4,Pedestrian, crossing the street. The current traffic condition suggests that it'
+da3da1dad5a54d8f4493afb81161894f,990fbf8f0b48da3a82613643b3827aa4,Motorcycle, passing bicycles, justification: Next lane. -
+b6f140124fe9891f173279c9793ae325,990fbf8f0b48da3a82613643b3827aa4,In the image, people are riding bikes, cars, and buses
+b6f140124fe9891f173279c9793ae325,990fbf8f0b48da3a82613643b3827aa4,I'm not accelerating. I am not changing my speed. However,
+5c33235ff3d6032892fe44224b1239d3,990fbf8f0b48da3a82613643b3827aa4,The scooter is turning left.
+5c33235ff3d6032892fe44224b1239d3,990fbf8f0b48da3a82613643b3827aa4,The scooter is turning right.
+527818d289cee334f9903df88f6f3f67,00fb5ab9e2d508c573d588652cf0d025,There are two cyclists, specifically one man and one woman, riding on
+527818d289cee334f9903df88f6f3f67,00fb5ab9e2d508c573d588652cf0d025,There are two bicyclists in the image.
+5bb70f548212e262aa85332f29d3b1e8,00fb5ab9e2d508c573d588652cf0d025,Yes, you should stop because of the man with a backpack riding a
+5bb70f548212e262aa85332f29d3b1e8,00fb5ab9e2d508c573d588652cf0d025,Yes, it would be advisable to stop as there is a bicycl
+0c8e9268f24b1dc414c21ebacd24ced9,00fb5ab9e2d508c573d588652cf0d025,Person riding a bike, justification is that bike riding is
+0c8e9268f24b1dc414c21ebacd24ced9,00fb5ab9e2d508c573d588652cf0d025,Biking, Just Allow Time for More Cowbell.
+8453ff3d2fb1a49eb6913076104ebe0d,00fb5ab9e2d508c573d588652cf0d025,Both sides of the road, near the parked cars, have numerous traffic l
+8453ff3d2fb1a49eb6913076104ebe0d,00fb5ab9e2d508c573d588652cf0d025,Right
+8e21a4ee04ee8a95308f9dc1327a6314,00fb5ab9e2d508c573d588652cf0d025,Red car
+8e21a4ee04ee8a95308f9dc1327a6314,00fb5ab9e2d508c573d588652cf0d025,A red sports sedan is ahead of the cyclist.
+6856f07854d392590abffb42cc7d45a9,8755e0bc3abbc4807dc090bc9129f6ec,Yes, you can notice a motorcyclist on the road. The motor
+6856f07854d392590abffb42cc7d45a9,8755e0bc3abbc4807dc090bc9129f6ec,Yes, there is one motorcyclist on the road. The motorcy
+09b2700134f738d7277082de652309f0,8755e0bc3abbc4807dc090bc9129f6ec,A man is crossing a four-way intersection. Justification is that he needs
+09b2700134f738d7277082de652309f0,8755e0bc3abbc4807dc090bc9129f6ec,Pedestrian is waiting at the crosswalk. Justification: It is safe
+2f949a29f3076f8aa98d55c629353027,8755e0bc3abbc4807dc090bc9129f6ec,Yes, when it is your turn to merge into the right lane, you
+2f949a29f3076f8aa98d55c629353027,8755e0bc3abbc4807dc090bc9129f6ec,Drivers using the curved street should yield to any vehicle turning left before
+c949a6b1c355eb0412e948f621dfa338,8755e0bc3abbc4807dc090bc9129f6ec,Car
+c949a6b1c355eb0412e948f621dfa338,8755e0bc3abbc4807dc090bc9129f6ec,There is a bus ahead of you as you drive down the road. This suggests
+2b40de09b484fed8c01e5704015a7589,8755e0bc3abbc4807dc090bc9129f6ec,While there are traffic lights in the view, their positions are not clearly visible enough
+2b40de09b484fed8c01e5704015a7589,8755e0bc3abbc4807dc090bc9129f6ec,As the car is currently parked on the sidewalk, it is already in
+87dd3586773c2a3364d7aebb8abb5afe,f6d832c4b3279c6491278500918e792e,Yes, as in the shot, the road is clear for you to accelerate
+87dd3586773c2a3364d7aebb8abb5afe,f6d832c4b3279c6491278500918e792e,Yes, the road appears clear for me to accelerate in the city, as
+87833bfe06b5c9560230c2fa48c35f93,f6d832c4b3279c6491278500918e792e,Yes, there are several people crossing the road on a street-level view in
+87833bfe06b5c9560230c2fa48c35f93,f6d832c4b3279c6491278500918e792e,Yes, a herd of pedestrians can be seen crossing the street
+4bbec95b286d5642cbc9fdb64cfe0c7e,f6d832c4b3279c6491278500918e792e,The pedestrian is walking on the other side of the street, near a
+4bbec95b286d5642cbc9fdb64cfe0c7e,f6d832c4b3279c6491278500918e792e,Left
+0325dc94bcb09bffe5214a5baafe9b1e,f6d832c4b3279c6491278500918e792e,In the image, there is a curve on the road, which can potentially pose
+0325dc94bcb09bffe5214a5baafe9b1e,f6d832c4b3279c6491278500918e792e,Yes, there are a few hazards ahead on the city street. First
+80b92fe08868be1f3e817b9245660f58,f6d832c4b3279c6491278500918e792e,A woman is crossing the street. Justification: To cross the street
+80b92fe08868be1f3e817b9245660f58,f6d832c4b3279c6491278500918e792e,Person crossing street, justifying it by having a neon green bag, making
+291c71d1d00d99b519ed24c27ec529ce,192ddf6ced03be1ea37e716d960eb1d4,The current action is a man riding a bike. The justification for
+291c71d1d00d99b519ed24c27ec529ce,192ddf6ced03be1ea37e716d960eb1d4,Person riding bicycle across street, enjoying the day and participating
+48334b0e701a004ebc8b99e628e38f1b,192ddf6ced03be1ea37e716d960eb1d4,Yes, there are traffic lights in the image. They are primarily blue, but
+48334b0e701a004ebc8b99e628e38f1b,192ddf6ced03be1ea37e716d960eb1d4,Yes, there are traffic lights in the image. The signals are red.
+c449c6a88f1b5093733f9b7a3fb63703,192ddf6ced03be1ea37e716d960eb1d4,No, the image does not provide any information regarding the need for a change in
+c449c6a88f1b5093733f9b7a3fb63703,192ddf6ced03be1ea37e716d960eb1d4,Yes, I suggest decreasing your acceleration due to increased traffic congestion and
+fc734171b35e7bf8c13ddf8db23d6e3c,192ddf6ced03be1ea37e716d960eb1d4,In the image, there is a busy city scene with multiple traffic lights and b
+fc734171b35e7bf8c13ddf8db23d6e3c,192ddf6ced03be1ea37e716d960eb1d4,In this crowded and busy street scene, with lots of cars, bicy
+47dc1518dacae0d706fb0c17b45c3cf7,192ddf6ced03be1ea37e716d960eb1d4,A white van is in front of the camera, as seen through the rear view
+47dc1518dacae0d706fb0c17b45c3cf7,192ddf6ced03be1ea37e716d960eb1d4,Car
+5e538bb7e2510528abbcdb5764a6a9ec,065d10fc58526a238d2b4c8d9c06e763,As the scene shows a busy street with multiple pedestrians and cars possibly
+5e538bb7e2510528abbcdb5764a6a9ec,065d10fc58526a238d2b4c8d9c06e763,Although this was a close-up shot of roads and traffic in an agency
+18320749c3acfaf56849d998ec591bb7,065d10fc58526a238d2b4c8d9c06e763,Yes, it would be advisable to reduce your speed at this point. The
+18320749c3acfaf56849d998ec591bb7,065d10fc58526a238d2b4c8d9c06e763,Yes, you should consider reducing your speed at this point. The image shows a
+27249e65ee7048cfbf0ee38e8d4e45ae,065d10fc58526a238d2b4c8d9c06e763,Burrtles in the neighborhood, justification: It's a nice
+27249e65ee7048cfbf0ee38e8d4e45ae,065d10fc58526a238d2b4c8d9c06e763,Turning right, because the traffic light is green and I have the right of
+81dc439f812c979add0f4c87a64457d6,065d10fc58526a238d2b4c8d9c06e763,At the T-intersection, the motorcycle has the right of way,
+81dc439f812c979add0f4c87a64457d6,065d10fc58526a238d2b4c8d9c06e763,At this T-intersection, the vehicle on the right has the right of
+5fb02c97ffb458e39221b1be126b1c2a,065d10fc58526a238d2b4c8d9c06e763,There are various factors that can influence the adjustment of your speed while driving or
+5fb02c97ffb458e39221b1be126b1c2a,065d10fc58526a238d2b4c8d9c06e763,Several factors influence the adjustment of your speed, including road conditions, visibility,
+4a8046ff3d497ed16aa680433fe486f0,3f3bfab70356daed6fa27f0f11cc35dc,Yes, there are parked vehicles on the side of the road, including cars
+4a8046ff3d497ed16aa680433fe486f0,3f3bfab70356daed6fa27f0f11cc35dc,Yes, there are parked cars present on both sides of the street.
+9b1eb6ac736236c2903a06201111ada6,3f3bfab70356daed6fa27f0f11cc35dc,There are two pedestrians in the image, and they appear to be
+9b1eb6ac736236c2903a06201111ada6,3f3bfab70356daed6fa27f0f11cc35dc,There are several pedestrians crossing the busy street. This indicates that many
+96f15eabeec52b11bac94ba635d50354,3f3bfab70356daed6fa27f0f11cc35dc,Yes, there is an umbrella crossing the street in a completely wet as
+96f15eabeec52b11bac94ba635d50354,3f3bfab70356daed6fa27f0f11cc35dc,Yes, on the street, there is a person walking with an umbrella
+2910c92f43f8d3c9c0926623f84143d9,3f3bfab70356daed6fa27f0f11cc35dc,Yes, there is a zebra crossing more than halfway down the street
+2910c92f43f8d3c9c0926623f84143d9,3f3bfab70356daed6fa27f0f11cc35dc,Yes, there is a zebra crossing or pedestrian crossing ahead,
+d90732069e218c234fbbc3e52ffff578,3f3bfab70356daed6fa27f0f11cc35dc,The person is standing under an umbrella, walking outside, waiting for the
+d90732069e218c234fbbc3e52ffff578,3f3bfab70356daed6fa27f0f11cc35dc,Woman holding an umbrella (action), to protect herself and her purse
+3a770ccf8855bc5d26e9d49c8598e4c6,8acfd91fc5488115f4a96cfb9901b35c,Yes, I recommend reducing your speed. The image depicts a busy city
+3a770ccf8855bc5d26e9d49c8598e4c6,8acfd91fc5488115f4a96cfb9901b35c,Based on the image, multiple vehicles like cars, bicycles, motorcy
+2bd7d32da752c5087834ece2e41539de,8acfd91fc5488115f4a96cfb9901b35c,Yes, you can change to the right lane. Factors that influence this
+2bd7d32da752c5087834ece2e41539de,8acfd91fc5488115f4a96cfb9901b35c,Yes, the motorcycle is passing through a red light, which means it should
+2140a76b9570386742c00be7dc485168,8acfd91fc5488115f4a96cfb9901b35c,Motorcycle rider drifting and lane splitting, justifying it as providing
+2140a76b9570386742c00be7dc485168,8acfd91fc5488115f4a96cfb9901b35c,Current action: Person on a motor scooter on the city street.
+de5bf275d5db5f0f9ced9efde31928ec,8acfd91fc5488115f4a96cfb9901b35c,Yes, there are roadworks going on near an intersection in the image. The
+de5bf275d5db5f0f9ced9efde31928ec,8acfd91fc5488115f4a96cfb9901b35c,Yes, the image shows a city street densely surrounded by traffic in a construction
+91d64881fba8ed0a49349abca82f67b4,8acfd91fc5488115f4a96cfb9901b35c,There are two parked cars on the right of the road.
+91d64881fba8ed0a49349abca82f67b4,8acfd91fc5488115f4a96cfb9901b35c,On the right side of the city road, there are three cars parked alongside
+4a6cd0be5b06e0a22a5f4a437e57a6cb,97a2a11eb970cb429cf1cf8457123fab,Yes, there is a traffic sign along the street visible in the image. It
+4a6cd0be5b06e0a22a5f4a437e57a6cb,97a2a11eb970cb429cf1cf8457123fab,Yes, I can spot a traffic sign in the image, located at a significant
+6dab6c7e64ad2ba5fae147fd1e6fb3d8,97a2a11eb970cb429cf1cf8457123fab,There are two male cyclists in the image, and they are driving towards the
+6dab6c7e64ad2ba5fae147fd1e6fb3d8,97a2a11eb970cb429cf1cf8457123fab,There are two cyclists: one is driving along the left side of the road
+06b54dd9e9244b30a5701ec23ff1797a,97a2a11eb970cb429cf1cf8457123fab,There are a total of four parked cars in the image. Three of them
+06b54dd9e9244b30a5701ec23ff1797a,97a2a11eb970cb429cf1cf8457123fab,There are two cars parked along the side of the city street. The one
+68328392e31e7d12a69a2758f418c7f5,97a2a11eb970cb429cf1cf8457123fab,The image is a bit unclear as to whether a truck is pulling the cab
+68328392e31e7d12a69a2758f418c7f5,97a2a11eb970cb429cf1cf8457123fab,Yes, you should stop behind the black cab as it is stopped at the city
+9c7af05ae1a6d0a6c96d78f4c31939e8,97a2a11eb970cb429cf1cf8457123fab,The action being portrayed in the image is a man riding his bicy
+9c7af05ae1a6d0a6c96d78f4c31939e8,97a2a11eb970cb429cf1cf8457123fab,A man is riding a bike on the street, increasing safety and reducing
+8a6c98beeaf8943f5758020053103731,fbdf56c8cf8500903a2b6b88f84522f0,Yes, in this lane, you can turn left.
+8a6c98beeaf8943f5758020053103731,fbdf56c8cf8500903a2b6b88f84522f0,No, turning left is only allowed after a driver has observed and met the turning
+b646b094da21042fc2a0662b794a1cd6,fbdf56c8cf8500903a2b6b88f84522f0,The traffic in front is accelerating, as it moves forward on the highway.
+b646b094da21042fc2a0662b794a1cd6,fbdf56c8cf8500903a2b6b88f84522f0,Based on the image, the traffic is clear and there are no visible indications
+61804c43c7287cd9045a67b7b7501af5,fbdf56c8cf8500903a2b6b88f84522f0,Yes, there is a vehicle in the lane to your left. It is
+61804c43c7287cd9045a67b7b7501af5,fbdf56c8cf8500903a2b6b88f84522f0,Yes, there is a vehicle in the lane to the left. It is
+a6df923bb4967b7d689f7cd253a1dd03,fbdf56c8cf8500903a2b6b88f84522f0,Yes, it is safe to accelerate. The image depicts a street
+a6df923bb4967b7d689f7cd253a1dd03,fbdf56c8cf8500903a2b6b88f84522f0,Given that the passenger side of the car is tilted slightly and the view
+ee746fd004096aeccdef57c5ed6ca3be,fbdf56c8cf8500903a2b6b88f84522f0,Turn right, headed North. Justification when a vehicle is turning right on
+ee746fd004096aeccdef57c5ed6ca3be,fbdf56c8cf8500903a2b6b88f84522f0,Driving, justification: Necessity to reach destination, follow
